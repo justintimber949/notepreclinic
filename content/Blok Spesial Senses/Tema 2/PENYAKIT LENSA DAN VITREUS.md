@@ -2,7 +2,7 @@ by: dr Yul
 #TEMA2
 
 > **Modul Referensi:**  
->[[Penyakit Lensa & Vitreus.pdf]]
+> [[Penyakit Lensa & Vitreus.pdf]]
 
 ---
 # LENSA DAN KATARAK

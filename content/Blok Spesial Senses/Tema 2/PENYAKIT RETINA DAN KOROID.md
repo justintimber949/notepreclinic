@@ -1,8 +1,8 @@
-by
+by: dr Yul
 #TEMA2
 
 > **Modul Referensi:**  
->[[Penyakit Retina.pdf]]
+> [[Penyakit Retina.pdf]]
 
 ---
 # RETINA: Anatomi dan Fisiologi
@@ -358,9 +358,3 @@ Manifestasi klinis:
 - TTT (Transpupillary Thermotherapy)
 - Pengangkatan CNV secara bedah
 - Translokasi makula
-
-## Kesimpulan
-
-Retina merupakan komponen vital dalam sistem penglihatan yang memiliki struktur dan fungsi kompleks. Pemahaman mengenai anatomi dan fisiologi retina sangat penting untuk memahami berbagai kelainan yang dapat terjadi pada retina. Dalam penanganan kelainan retina, diagnosis dini dan penanganan cepat sangat esensial untuk mencegah kerusakan permanen pada penglihatan.
-
-Selamat belajar!

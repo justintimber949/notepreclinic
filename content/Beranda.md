@@ -34,7 +34,7 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 #### Kuliah 19: [[Penyakit tenggorok]]
 #### Kuliah 20: [[Gangguan pada Kepala dan Leher]]
 #### Kuliah 21: [[Radiologi Sistem Indra]]
-#### Kuliah 22: [[Farmakologi penginderaan]]
+#### Kuliah 22: [[Farmakologi Penginderaan]]
 
 ---
 ### Tema 4: Penyakit Telinga
@@ -43,13 +43,13 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 #### Kuliah 25: [[Penyakit Telinga Dalam dan Gangguan Keseimbangan]]
 #### Kuliah 26: [[Keganasan THT-KL]]
 #### Kuliah 27: [[PA Keganasan sistem indra]]
-#### Kuliah 28: [[Bioetik yang berkaitan dengan sistem indra (hak-hak orang cacat)]]
+#### Kuliah 28: [[Bioetik yang Berkaitan dengan Sistem Indra (Hak-hak Orang Cacat)]]
 
 ---
 ### Kuliah Tambahan
 - Kuliah Tambahan: 
 
 ---
-
+tag: #TEMA1 #TEMA2 #TEMA3 #TEMA4
 > ✨ *Gunakan halaman ini sebagai peta belajar selama blok Special Senses. Update progres, dan tandai catatan yang sudah dikuasai.*
 

@@ -708,5 +708,3 @@ Gambar ini menunjukkan siklus penularan Coxiella burnetii yang melibatkan:
    - Pemahaman tentang distribusi geografis strain lokal masih terbatas
 
 ---
-
-Semoga catatan ini membantu pemahaman Anda tentang rickettsiosis secara komprehensif. Pastikan untuk menekankan pentingnya diagnosis dini dan pengobatan tepat waktu untuk mencegah komplikasi serius dari infeksi ini.
