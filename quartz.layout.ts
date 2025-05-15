@@ -14,9 +14,9 @@ export const sharedPageComponents: SharedLayout = {
         // from data-repo-id
         repoId: 'R_kgDOOqrT_w',
         // from data-category
-        category: 'Show and tell',
+        category: 'Announcements',
         // from data-category-id
-        categoryId: 'DIC_kwDOOqrT_84CqME2',
+        categoryId: 'DIC_kwDOOqrT_84CqMEy',
       }
     }),
   ],
