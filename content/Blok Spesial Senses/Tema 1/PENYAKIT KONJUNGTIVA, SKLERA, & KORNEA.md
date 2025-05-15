@@ -14,9 +14,7 @@ Konjungtiva adalah membran mukosa tipis dan transparan yang melapisi permukaan d
 1. **Konjungtiva Bulbi**: Menutupi bagian anterior sklera (bagian putih mata)
 2. **Konjungtiva Palpebra**: Mulai dari tepian mucocutaneous junction sampai tarsal plate
 3. **Konjungtiva Forniks**: Bagian lipatan yang menghubungkan konjungtiva bulbi dan palpebra
-
 ![[4.jpg]]
-
 **Fungsi Saccus Conjungtiva**:
 
 - Memfasilitasi pergerakan bola mata
@@ -62,9 +60,7 @@ Konjungtiva adalah membran mukosa tipis dan transparan yang melapisi permukaan d
 ### KONJUNGTIVITIS
 
 Konjungtivitis adalah peradangan pada konjungtiva yang ditandai dengan:
-
 ![[8 1.jpg]] ![[7 1.jpg]]
-
 #### TANDA DAN GEJALA:
 
 1. **Konjungtival Hiperemi**: Peningkatan aliran darah ke pembuluh darah konjungtiva (menyebabkan mata merah), lebih jelas terlihat di forniks.
@@ -81,7 +77,6 @@ Konjungtivitis adalah peradangan pada konjungtiva yang ditandai dengan:
     - **Reaksi Papiler**: Penonjolan papilla pada konjungtiva, tampak seperti batu-batu kecil
     - **Limbal Nodule** (Trantas Dots): Nodul kecil pada limbus
     - **Pseudomembran**: Lapisan fibrin yang terlihat seperti membran
-
 ![[26 1.png]]
 
 > [!info] **Informasi Tambahan**:
