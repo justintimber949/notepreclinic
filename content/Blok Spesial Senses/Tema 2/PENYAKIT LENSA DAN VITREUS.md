@@ -7,7 +7,7 @@ by: dr Yul
 ---
 # LENSA DAN KATARAK
 *Catatan Materi Kuliah Oftalmologi*
-
+![[Pasted image 20250516131146.png]]
 ## ANATOMI DAN FISIOLOGI LENSA
 
 ### Karakteristik Lensa
