@@ -1,5 +1,4 @@
 by: dr Yul
-tags: #TEMA2
 
 > **Modul Referensi:**  
 > [[Kelainan Refraksi & Gerak Mata.pdf]]
@@ -454,4 +453,7 @@ tags: #TEMA2
     - Ptosis fluktuatif
     - Diplopia yang memburuk sore hari
     - Ice pack test positif (ptosis membaik setelah kompres dingin)
+
+---
+tags: #TEMA2
 

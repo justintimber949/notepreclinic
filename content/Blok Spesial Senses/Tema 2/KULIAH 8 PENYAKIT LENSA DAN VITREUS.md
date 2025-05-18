@@ -1,5 +1,4 @@
 by: dr Yul
-tags: #TEMA2
 
 > **Modul Referensi:**  
 > [[Penyakit Lensa & Vitreus.pdf]]
@@ -529,3 +528,6 @@ Tes ini digunakan untuk mendeteksi diplopia. Pasien menggunakan kacamata merah-h
 - Kacamata afakia: +10D, pembesaran bayangan 25%, lapang pandang sempit
 - Lensa kontak: +10D, pembesaran bayangan 8%, lapang pandang lebih luas
 - IOL: +20D, tidak ada pembesaran bayangan, lapang pandang normal
+
+---
+tags: #TEMA2

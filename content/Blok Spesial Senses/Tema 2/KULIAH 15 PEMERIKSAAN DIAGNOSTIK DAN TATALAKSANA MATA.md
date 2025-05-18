@@ -1,5 +1,4 @@
 by: dr Yul
-#TEMA2
 
 > **Modul Referensi:**  
 > [[Pemeriksaan Diagnosis & Tatalaksana pada Mata.pdf]]
@@ -372,3 +371,6 @@ Tujuan: Menilai posisi bola mata
 7. **Trauma basa:**
    - Kornea keruh akibat reaksi persabunan
    - Konjungtiva mengalami iskemia dan perdarahan
+
+---
+tags: #TEMA2

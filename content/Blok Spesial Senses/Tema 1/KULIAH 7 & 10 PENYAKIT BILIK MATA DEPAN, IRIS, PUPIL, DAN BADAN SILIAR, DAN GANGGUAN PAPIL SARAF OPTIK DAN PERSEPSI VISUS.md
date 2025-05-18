@@ -1,5 +1,4 @@
 by: dr Yul
-tags: #TEMA1 #TEMA2
 
 > **Modul Referensi:**  
 > [[Glaukoma & Neurooftalmologi.pdf]]
@@ -467,3 +466,6 @@ Gangguan pada neuromuscular junction → insufisiensi penggunaan asetilkolin pad
 #### Terapi
 - Tes diagnostik: Cholinesterase (neostigmin/prostigmin) atau Endroponium chloride (tensilon)
 - Untuk pengobatan: Konsultasi ke bagian saraf
+
+---
+tags: #TEMA1 #TEMA2

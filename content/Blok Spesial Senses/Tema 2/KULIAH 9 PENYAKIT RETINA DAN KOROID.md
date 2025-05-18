@@ -1,5 +1,4 @@
 by: dr Yul
-tags: #TEMA2
 
 > **Modul Referensi:**  
 > [[Penyakit Retina.pdf]]
@@ -358,3 +357,6 @@ Manifestasi klinis:
 - TTT (Transpupillary Thermotherapy)
 - Pengangkatan CNV secara bedah
 - Translokasi makula
+
+---
+tags: #TEMA2

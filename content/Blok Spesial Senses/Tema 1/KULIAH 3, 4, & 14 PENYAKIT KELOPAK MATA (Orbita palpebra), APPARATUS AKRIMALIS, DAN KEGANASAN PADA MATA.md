@@ -1,5 +1,4 @@
 by: dr Yul
-tags: #TEMA1 #TEMA2
 
 > **Modul Referensi:**  
 > [[Orbita Palpebra, Aparatus lakrimalis, dan Keganasan Pada Mata.pdf]]
@@ -632,3 +631,6 @@ Tatalaksana tumor mata tergantung pada jenis tumor, lokasi, dan stadium. Beberap
 - Enukleasi (pengangkatan bola mata) untuk tumor intraokuler ganas
 - Eksenterasi (pengangkatan seluruh isi rongga orbita) untuk tumor ganas invasif
 - Radioterapi dan kemoterapi sebagai terapi adjuvan
+
+---
+tags: #TEMA1 #TEMA2

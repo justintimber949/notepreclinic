@@ -1,5 +1,4 @@
 by dr Alvi
-tags: #TEMA1
 
 > **Modul Referensi:**  
 > [[Bakteri pada Sistem Indra.pdf]]
@@ -708,3 +707,4 @@ Gambar ini menunjukkan siklus penularan Coxiella burnetii yang melibatkan:
    - Pemahaman tentang distribusi geografis strain lokal masih terbatas
 
 ---
+tags: #TEMA1 

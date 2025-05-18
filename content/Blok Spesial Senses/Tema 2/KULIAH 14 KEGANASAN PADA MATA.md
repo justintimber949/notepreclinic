@@ -1,5 +1,4 @@
 by: dr Yul
-tags: #TEMA2
 
 > **Modul Referensi:**  
 > [[Keganasan pada Mata.pdf]]
@@ -478,4 +477,5 @@ Orbita berhubungan dengan:
 - Fossa pterygopalatina
 - Kavum nasi
 
-Hubungan ini penting untuk memahami penyebaran infeksi atau tumor dari struktur sekitar ke orbita atau sebaliknya.
+---
+tags: #TEMA2

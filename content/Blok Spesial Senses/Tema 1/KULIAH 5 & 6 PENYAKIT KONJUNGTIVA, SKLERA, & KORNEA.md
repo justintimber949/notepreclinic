@@ -1,5 +1,4 @@
 by: dr Yul
-tags: #TEMA1  
 
 > **Modul Referensi:**  
 > [[Penyakit Konjungtiva, Sklera, & Kornea.pdf]]
@@ -1143,3 +1142,6 @@ Konjungtivitis adalah peradangan pada konjungtiva yang ditandai dengan:
     - _Indikasi_: Konjungtivitis bakteri, blefaritis, infeksi Chlamydia
 - **Polypeptida**: Polymyxin B (kombinasi)
     - _Mekanisme_:# CATATAN LENGKAP: PENYAKIT KONJUNGTIVA, SKLERA, & KORNEA
+
+---
+tags: #TEMA1  
