@@ -5,6 +5,32 @@ by: dr Yul
 > [[Orbita Palpebra, Aparatus lakrimalis.pdf]]
 
 ---
+> [!danger] Ringkasan Penting!
+> |**Kelainan**|**Deskripsi**|**Tingkatan**|
+|---|---|---|
+|**Epikantus**|Lipatan kulit tambahan di sudut dalam kelopak mata, termasuk kelainan kongenital.|3A|
+|**Ektropion**|Kelopak mata terlipat ke luar. Biasanya bilateral, sering pada lansia karena relaksasi otot orbicularis oculi.|3A|
+|**Entropion**|Kelopak mata terlipat ke dalam. Bisa disebabkan oleh degenerasi (senil) atau jaringan parut (sikatrikal).|3A|
+|**Trikiasis**|Tidak disebutkan secara eksplisit dalam file, tetapi umumnya adalah pertumbuhan bulu mata ke arah bola mata sehingga mengiritasi kornea.|4|
+|**Retraksi Kelopak Mata**|Tidak dijelaskan detail, namun umumnya mengacu pada kondisi kelopak atas tertarik ke atas atau bawah sehingga sklera terlihat lebih banyak dari normal.|3A|
+|**Laserasi Ductus Lakrimalis**|Tidak dijelaskan detail dalam file, tapi merujuk pada robekan pada saluran air mata yang bisa terjadi akibat trauma.|3A|
+|**Dakriosistitis**|Tidak dijelaskan detail dalam file, tapi umumnya adalah infeksi pada kantung lakrimal (lacrimal sac), sering disebabkan obstruksi saluran lakrimal.|3A|
+|**Obstruksi Ductus Nasolacrimal**|Tidak dijelaskan detail dalam file, tapi mengacu pada penyumbatan saluran pengalir air mata ke hidung, menyebabkan mata berair kronik.|3A|
+
+> [!danger] Ringkasan Penting!
+> |**Kelainan**|**Deskripsi**|**Tingkatan**|
+|---|---|---|
+|**Trauma (kontusio, abrasi, avulsi, laserasi, rupture)**|Kelainan akibat cedera mekanis pada kelopak mata, bisa berupa memar (kontusio), goresan (abrasi), pengelupasan (avulsi), robekan (laserasi), atau pecah (rupture).|3A|
+|**Blefaritis**|Radang kronis tepi kelopak mata. Gejala: pedih, gatal. Tipe: ulseratif, skuamosa, angularis. Terapi: kebersihan + antibiotik.|4|
+|**Herpes simpleks/zoster palpebra**|Infeksi virus herpes pada kelopak mata. Herpes zoster lebih nyeri dan dapat mengikuti pola dermatom.|3A|
+|**Hordeolum**|Infeksi akut pada kelenjar kelopak mata (Zeis, Moll, Meibom). Disertai nyeri, bengkak, merah. Terapi: kompres hangat, antibiotik.|4|
+|**Kalazion**|Radang granulomatosa steril pada kelenjar Meibom. Tidak nyeri, pembengkakan lebih kronik dibanding hordeolum. Terapi: insisi dan kuretase.|3|
+|**Kelainan kongenital palpebra (epiblefaron, koloboma)**|Kelainan bawaan pada bentuk/struktur kelopak. **Epiblefaron**: lipatan kulit tambahan yang menyebabkan bulu mata menyentuh kornea. **Koloboma**: celah pada kelopak.|2|
+|**Hemangioma, port-wine stain**|Lesi vaskular kongenital. **Hemangioma**: kapiler/kavernosa. **Port-wine stain**: malformasi kapiler datar berwarna merah/pink.|2|
+|**Xantelasma, nevus, papilloma, milia, keratoakantoma**|Lesi jinak pada kelopak mata. **Xantelasma**: plak kekuningan. **Nevus**: tahi lalat. **Papilloma**: kutil. **Milia**: kista kecil. **Keratoakantoma**: tumor epitel cepat tumbuh.|2|
+|**Ptosis**|Kelopak mata turun secara tidak normal. Bisa kongenital atau didapat. Penyebab: kelumpuhan otot levator palpebrae.|3A|
+|**Lagoftalmos**|Ketidakmampuan menutup kelopak mata secara sempurna. Risiko: paparan kornea → ulkus. Bisa karena paralisis N. VII.|3A|
+
 # CATATAN KULIAH: PALPEBRA, ORBITA, DAN ONKOLOGI MATA
 
 ## BAGIAN 1: PALPEBRA (KELOPAK MATA)

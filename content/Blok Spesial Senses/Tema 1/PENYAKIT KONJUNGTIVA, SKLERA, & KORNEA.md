@@ -5,6 +5,37 @@ by: dr Yul
 > [[Penyakit Konjungtiva, Sklera, & Kornea.pdf]]
 
 ---
+> [!danger] Rangkuman Penting
+> |**Topik**|**Deskripsi Singkat**|**Kode**|
+|---|---|---|
+|**Benda asing konjungtiva**|Partikel asing (debu, serangga, serpihan logam) terjebak di saccus conjungtiva; menimbulkan sensasi mengganjal, iritasi, mata berair, dan refleks blefarospasme|4|
+|**Laserasi konjungtiva**|Robekan akibat trauma; ditandai perdarahan, nyeri, dan kemerahan; bisa disertai laserasi struktur lain|3B|
+|**Perdarahan subkonjungtiva**|Perdarahan lokal di bawah konjungtiva; tampak merah terang seperti tinta; biasanya tidak nyeri; sering idiopatik atau karena trauma ringan|4|
+|**Kemosis, folikel, papila, flikten**|- **Kemosis**: edema konjungtiva- **Folikel**: gambaran bening, reaksi limfoid- **Papila**: gambaran batu-batu kecil, vaskular- **Flikten**: nodul kecil akibat hipersensitivitas TB/staph|2|
+|**Konjungtivitis (bakteri, viral, alergi)**|Peradangan konjungtiva dengan gejala: mata merah, sekret, gatal/nyeri ringan. - **Bakteri**: purulen- **Viral**: watery, folikel- **Alergi**: gatal berat, papila|4|
+|**Oftalmia neonatorum**|Konjungtivitis pada neonatus (0-28 hari); bisa karena Neisseria, Chlamydia, HSV; gejala: sekret banyak, bengkak; butuh antibiotik/topikal segera|3B|
+|**Pinguekula**|Deposisi kekuningan dekat limbus (nasal/temporal); tidak vaskularisasi; akibat paparan UV; biasanya asimptomatik|2|
+|**Pterygium**|Jaringan fibrovascular dari konjungtiva menutupi kornea; progresif; akibat iritasi kronik/UV; gejala bisa berupa gangguan penglihatan|3A|
+|**Mata kering**|Gangguan kuantitas/kualitas air mata (keratoconjunctivitis sicca); gejala: kering, rasa terbakar, fotofobia ringan; terapi: air mata buatan|4|
+|**Episkleritis**|Radang ringan pada episklera; gejala: nyeri ringan, mata merah lokal; biasanya self-limited, tidak ada gangguan visus|4|
+|**Skleritis**|Inflamasi berat pada sklera; nyeri hebat, mata merah difus, visus bisa terganggu; terkait penyakit autoimun (RA, SLE)|3A|
+|**Patomekanisme keluhan umum**|- **Merah**: hiperemia konjungtiva/sklera- **Gatal**: reaksi alergi, histamin- **Berair**: stimulasi refleks lakrimasi- **Kering**: defisiensi air mata/musin- **Nyeri**: inflamasi/tekanan- **Lelah**: asthenopia akibat kekeringan- **Kotoran mata banyak**: infeksi (bakteri, virus)|-|
+
+> [!danger] Ringkasan Penting
+> |**Topik**|**Deskripsi Singkat**|**Kode**|
+|---|---|---|
+|**Trauma kornea (abrasi, erosi)**|Cedera mekanik epitel kornea (mis. kuku, lensa kontak); nyeri tajam, fotofobia, epifora; pewarnaan fluorescein positif|3B|
+|**Luka bakar kimia/termal**|Paparan zat kimia (alkali, asam) atau panas; darurat mata; dapat merusak kornea dan struktur intraokular; terapi irigasi segera|3B|
+|**Benda asing di kornea**|Partikel menempel pada permukaan kornea (logam, pasir); gejala: nyeri, rasa mengganjal, fotofobia; butuh pengangkatan dan evaluasi abrasi|3B|
+|**Perforasi/ruptur kornea**|Robekan penuh kornea akibat trauma; darurat; tanda: bilik mata dangkal, hipotonus, pupil ireguler, positif Seidel test|3B|
+|**Keratitis (bakteri, virus, fungus, parasit)**|Peradangan kornea; gejala: nyeri, mata merah, visus turun; masing-masing etiologi punya pola khas infiltrat; perlu terapi spesifik|3A|
+|**Ulkus kornea (bakteri, virus, fungus, parasit)**|Lesi terbuka akibat infeksi kornea berat; infiltrat + defek epitel; risiko perforasi tinggi; terapi intensif diperlukan|3B|
+|**Keratokonjungtivitis sika**|Gangguan permukaan okular karena defisiensi air mata atau musin; terkait sindrom Sjögren; gejala: kering, nyeri, fluktuasi visus|3A|
+|**Edema kornea**|Penumpukan cairan di stroma/endotel kornea; penyebab: tekanan intraokular tinggi, trauma, kerusakan endotel; gejala: visus kabur, halo|3A|
+|**Xeroftalmia**|Kekurangan vitamin A berat; gejala: kering, bitot’s spot, keratomalasia; umum di daerah endemik malnutrisi|3A|
+|**Masalah lensa kontak**|Risiko keratitis, abrasi, hipoksia kornea, infeksi (terutama Pseudomonas, Acanthamoeba); disertai nyeri, visus menurun|3B|
+|**Keratokonus, keratoglobus**|Penipisan kornea progresif:• **Keratokonus**: bentuk kerucut• **Keratoglobus**: bentuk globular; gejala: visus buram, astigmatisme|2|
+|**Megalokornea, mikrokornea**|Kelainan ukuran kornea:• **Megalokornea**: diameter >13 mm• **Mikrokornea**: diameter <10 mm; bisa kongenital, kadang terkait kelainan lain|-|
 ## 1. KONJUNGTIVA
 
 ### ANATOMI KONJUNGTIVA
