@@ -29,13 +29,13 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 ### Tema 3: Penyakit Hidung, Tenggorok, dan Kepala Leher
 [[Daftar Penyakit Tema 3]]
 #### Kuliah 16: [[Patomekanisme gangguan pada hidung]]
-#### Kuliah 17: [[Pemeriksaan dan tatalaksana pada THT-KL]]
+#### Kuliah 17: [[KULIAH 17 PEMERIKSAAN DAN TATALAKSANA PADA THT-KL]]
 #### Kuliah 18: [[Penyakit Hidung]]
 #### Kuliah 19: [[Penyakit sinus hidung]]
 #### Kuliah 20: [[Penyakit tenggorok]]
 #### Kuliah 21: [[Gangguan pada Kepala dan Leher]]
-#### Kuliah 22: [[Radiologi Sistem Indra]]
-#### Kuliah 23: [[Farmakologi Penginderaan]]
+#### Kuliah 22: [[KULIAH 22 RADIOLOGI SISTEM INDERA]]
+#### Kuliah 23: [[KULIAH 23 FARMAKOLOGI PENGINDRAAN]]
 
 ---
 ### Tema 4: Penyakit Telinga
@@ -44,7 +44,7 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 #### Kuliah 26: [[Penyakit Telinga Dalam dan Gangguan Keseimbangan]]
 #### Kuliah 27: [[Keganasan THT-KL]]
 #### Kuliah 28: [[PA Keganasan sistem indra]]
-#### Kuliah 29: [[Bioetik yang Berkaitan dengan Sistem Indra (Hak-hak Orang Cacat)]]
+#### Kuliah 29: [[KULIAH 29 BIOETIK YANG BERKAITAN DENGAN SISTEM INDRA (HAK-HAK ORANG CACAT)]]
 
 ---
 ### Kuliah Tambahan
