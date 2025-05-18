@@ -6,6 +6,7 @@ by: dr Yul
 
 ---
 > [!danger] Ringkasan Penting!
+> 
 > |**Kelainan**|**Deskripsi**|**Tingkatan**|
 |---|---|---|
 |**Epikantus**|Lipatan kulit tambahan di sudut dalam kelopak mata, termasuk kelainan kongenital.|3A|
@@ -18,6 +19,7 @@ by: dr Yul
 |**Obstruksi Ductus Nasolacrimal**|Tidak dijelaskan detail dalam file, tapi mengacu pada penyumbatan saluran pengalir air mata ke hidung, menyebabkan mata berair kronik.|3A|
 
 > [!danger] Ringkasan Penting!
+> 
 > |**Kelainan**|**Deskripsi**|**Tingkatan**|
 |---|---|---|
 |**Trauma (kontusio, abrasi, avulsi, laserasi, rupture)**|Kelainan akibat cedera mekanis pada kelopak mata, bisa berupa memar (kontusio), goresan (abrasi), pengelupasan (avulsi), robekan (laserasi), atau pecah (rupture).|3A|
