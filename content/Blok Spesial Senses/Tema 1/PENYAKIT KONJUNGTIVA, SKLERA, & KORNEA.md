@@ -6,23 +6,25 @@ by: dr Yul
 
 ---
 > [!danger] Rangkuman Penting
-> |**Topik**|**Deskripsi Singkat**|**Kode**|
-|---|---|---|
-|**Benda asing konjungtiva**|Partikel asing (debu, serangga, serpihan logam) terjebak di saccus conjungtiva; menimbulkan sensasi mengganjal, iritasi, mata berair, dan refleks blefarospasme|4|
-|**Laserasi konjungtiva**|Robekan akibat trauma; ditandai perdarahan, nyeri, dan kemerahan; bisa disertai laserasi struktur lain|3B|
-|**Perdarahan subkonjungtiva**|Perdarahan lokal di bawah konjungtiva; tampak merah terang seperti tinta; biasanya tidak nyeri; sering idiopatik atau karena trauma ringan|4|
-|**Kemosis, folikel, papila, flikten**|- **Kemosis**: edema konjungtiva- **Folikel**: gambaran bening, reaksi limfoid- **Papila**: gambaran batu-batu kecil, vaskular- **Flikten**: nodul kecil akibat hipersensitivitas TB/staph|2|
-|**Konjungtivitis (bakteri, viral, alergi)**|Peradangan konjungtiva dengan gejala: mata merah, sekret, gatal/nyeri ringan. - **Bakteri**: purulen- **Viral**: watery, folikel- **Alergi**: gatal berat, papila|4|
-|**Oftalmia neonatorum**|Konjungtivitis pada neonatus (0-28 hari); bisa karena Neisseria, Chlamydia, HSV; gejala: sekret banyak, bengkak; butuh antibiotik/topikal segera|3B|
-|**Pinguekula**|Deposisi kekuningan dekat limbus (nasal/temporal); tidak vaskularisasi; akibat paparan UV; biasanya asimptomatik|2|
-|**Pterygium**|Jaringan fibrovascular dari konjungtiva menutupi kornea; progresif; akibat iritasi kronik/UV; gejala bisa berupa gangguan penglihatan|3A|
-|**Mata kering**|Gangguan kuantitas/kualitas air mata (keratoconjunctivitis sicca); gejala: kering, rasa terbakar, fotofobia ringan; terapi: air mata buatan|4|
-|**Episkleritis**|Radang ringan pada episklera; gejala: nyeri ringan, mata merah lokal; biasanya self-limited, tidak ada gangguan visus|4|
-|**Skleritis**|Inflamasi berat pada sklera; nyeri hebat, mata merah difus, visus bisa terganggu; terkait penyakit autoimun (RA, SLE)|3A|
-|**Patomekanisme keluhan umum**|- **Merah**: hiperemia konjungtiva/sklera- **Gatal**: reaksi alergi, histamin- **Berair**: stimulasi refleks lakrimasi- **Kering**: defisiensi air mata/musin- **Nyeri**: inflamasi/tekanan- **Lelah**: asthenopia akibat kekeringan- **Kotoran mata banyak**: infeksi (bakteri, virus)|-|
+
+| **Topik**                                   | **Deskripsi Singkat**                                                                                                                                                                                                                                                                   | **Kode** |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| **Benda asing konjungtiva**                 | Partikel asing (debu, serangga, serpihan logam) terjebak di saccus conjungtiva; menimbulkan sensasi mengganjal, iritasi, mata berair, dan refleks blefarospasme                                                                                                                         | 4        |
+| **Laserasi konjungtiva**                    | Robekan akibat trauma; ditandai perdarahan, nyeri, dan kemerahan; bisa disertai laserasi struktur lain                                                                                                                                                                                  | 3B       |
+| **Perdarahan subkonjungtiva**               | Perdarahan lokal di bawah konjungtiva; tampak merah terang seperti tinta; biasanya tidak nyeri; sering idiopatik atau karena trauma ringan                                                                                                                                              | 4        |
+| **Kemosis, folikel, papila, flikten**       | - **Kemosis**: edema konjungtiva- **Folikel**: gambaran bening, reaksi limfoid- **Papila**: gambaran batu-batu kecil, vaskular- **Flikten**: nodul kecil akibat hipersensitivitas TB/staph                                                                                              | 2        |
+| **Konjungtivitis (bakteri, viral, alergi)** | Peradangan konjungtiva dengan gejala: mata merah, sekret, gatal/nyeri ringan. - **Bakteri**: purulen- **Viral**: watery, folikel- **Alergi**: gatal berat, papila                                                                                                                       | 4        |
+| **Oftalmia neonatorum**                     | Konjungtivitis pada neonatus (0-28 hari); bisa karena Neisseria, Chlamydia, HSV; gejala: sekret banyak, bengkak; butuh antibiotik/topikal segera                                                                                                                                        | 3B       |
+| **Pinguekula**                              | Deposisi kekuningan dekat limbus (nasal/temporal); tidak vaskularisasi; akibat paparan UV; biasanya asimptomatik                                                                                                                                                                        | 2        |
+| **Pterygium**                               | Jaringan fibrovascular dari konjungtiva menutupi kornea; progresif; akibat iritasi kronik/UV; gejala bisa berupa gangguan penglihatan                                                                                                                                                   | 3A       |
+| **Mata kering**                             | Gangguan kuantitas/kualitas air mata (keratoconjunctivitis sicca); gejala: kering, rasa terbakar, fotofobia ringan; terapi: air mata buatan                                                                                                                                             | 4        |
+| **Episkleritis**                            | Radang ringan pada episklera; gejala: nyeri ringan, mata merah lokal; biasanya self-limited, tidak ada gangguan visus                                                                                                                                                                   | 4        |
+| **Skleritis**                               | Inflamasi berat pada sklera; nyeri hebat, mata merah difus, visus bisa terganggu; terkait penyakit autoimun (RA, SLE)                                                                                                                                                                   | 3A       |
+| **Patomekanisme keluhan umum**              | - **Merah**: hiperemia konjungtiva/sklera- **Gatal**: reaksi alergi, histamin- **Berair**: stimulasi refleks lakrimasi- **Kering**: defisiensi air mata/musin- **Nyeri**: inflamasi/tekanan- **Lelah**: asthenopia akibat kekeringan- **Kotoran mata banyak**: infeksi (bakteri, virus) | -        |
 
 > [!danger] Ringkasan Penting
-> |**Topik**|**Deskripsi Singkat**|**Kode**|
+
+|**Topik**|**Deskripsi Singkat**|**Kode**|
 |---|---|---|
 |**Trauma kornea (abrasi, erosi)**|Cedera mekanik epitel kornea (mis. kuku, lensa kontak); nyeri tajam, fotofobia, epifora; pewarnaan fluorescein positif|3B|
 |**Luka bakar kimia/termal**|Paparan zat kimia (alkali, asam) atau panas; darurat mata; dapat merusak kornea dan struktur intraokular; terapi irigasi segera|3B|
