@@ -2,7 +2,7 @@
 
 title: This is a private note
 
-draft: true
+draft: false
 
 ---
 > [!warning]
