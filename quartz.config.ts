@@ -1,9 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-// Import plugin ContentProtection yang baru
-import { ContentProtection } from "./quartz/plugins/transformers/contentProtection"
-
 /**
  * Quartz 4 Configuration
  *
@@ -79,9 +76,6 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
-      ContentProtection({
-      protectContent: true,
-      }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

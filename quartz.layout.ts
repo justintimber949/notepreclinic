@@ -1,9 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Importing our custom PasswordProtection component
-import PasswordProtection from "./quartz/components/PasswordProtection"
-
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -41,8 +38,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    // Add Password Protection component here
-    PasswordProtection(),
   ],
   left: [
     Component.PageTitle(),
