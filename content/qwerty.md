@@ -1,10 +1,8 @@
 ---
-
 title: This is a private note
-
 draft: true
-
 ---
+
 > [!warning]
 > # IMPORTANT NOTICE
 > **CONFIDENTIAL NOTE - PRIVATE STUDY PURPOSES ONLY**
