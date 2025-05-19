@@ -1,6 +1,6 @@
 ---
-title: This is a private note
-draft: false
+title: This is a sacret note
+draft: true
 ---
 > [!warning]
 > # IMPORTANT NOTICE
