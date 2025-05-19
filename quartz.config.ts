@@ -1,6 +1,9 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+// Import plugin ContentProtection yang baru
+import { ContentProtection } from "./quartz/plugins/transformers/contentProtection"
+
 /**
  * Quartz 4 Configuration
  *
@@ -19,6 +22,10 @@ const config: QuartzConfig = {
     baseUrl: "notepreclinic.git",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    passProtected: {
+      enabled: false,
+      iteration: 2e6,
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -72,6 +79,9 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      ContentProtection({
+      protectContent: true,
+      }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

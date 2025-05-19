@@ -1,7 +1,12 @@
 ---
 title: This is a private note
-draft: true
+date: 2023-05-19
+password: 65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5
 ---
+
+Ini adalah konten rahasia yang hanya bisa diakses dengan password.
+
+# Protected Page
 
 > [!warning]
 > # IMPORTANT NOTICE
