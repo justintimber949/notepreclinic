@@ -13,20 +13,20 @@ draft: false
 > - Whenever possible, review this material outside of campus premises
 > - This content is intended solely for personal educational reference
 >
-> **By proceeding, you acknowledge the private nature of these study materials.**
+> **By proceeding, you acknowledge the sacret nature of these study materials.**
 
 ---
-| PEMBERITAHUAN PENTING
-**MATERI RAHASIA - HANYA UNTUK TUJUAN PEMBELAJARAN PRIBADI**
-
-⚠️ **Pastikan privasi Anda sebelum melanjutkan** ⚠️
-
-* Berhati-hatilah saat mengakses dokumen ini
-* Pastikan tidak ada yang dapat melihat layar Anda saat membuka catatan ini
-* Jika memungkinkan, tinjau materi ini di luar area kampus
-* Konten ini dimaksudkan hanya untuk referensi pendidikan pribadi
-
-**Dengan melanjutkan, Anda mengakui sifat pribadi dari materi pembelajaran ini.**
+> [!warning]
+> # PEMBERITAHUAN PENTING
+> **MATERI RAHASIA - HANYA UNTUK TUJUAN PEMBELAJARAN PRIBADI**
+> ⚠️ **Pastikan privasi Anda sebelum melanjutkan** ⚠️
+> 
+> * Berhati-hatilah saat mengakses dokumen ini
+> * Pastikan tidak ada yang dapat melihat layar Anda saat membuka catatan ini
+> * Jika memungkinkan, tinjau materi ini di luar area kampus
+> * Konten ini dimaksudkan hanya untuk referensi pendidikan pribadi
+> 
+> **Dengan melanjutkan, Anda mengakui sifat kerahasiaan dari materi pembelajaran ini.**
 
 ---
 # UAB Blok Spesial Sense 2024
@@ -65,7 +65,7 @@ D. Pemeriksaan gram tampak badan elementer berbentuk buah pir
 E. Termasuk bakteri aerob fakultatif
 
 7. Pasien perempuan usia 45 tahun datang ke klinik kesehatan dengan keluhan demam sejak 7 hari mengeluh lesu dan sakit kepala. Pada pemeriksaan fisik ditemukan ptekie di seluruh tubuh. Dari anamnesa: Diketahui bahwa bintik-bintik merah awalnya dijumpai di perut lalu menyebar sampai ke tangan dan kaki.
-   Pasien tinggal di pemukiman yang padat dan kumuh. Dokter menduga bahwa pasien menderita suatu infeksi bakteri yang ditularkan melalui feses kutu pediculus humanus. **Apakah diagnosis penyakit pasien?**
+Pasien tinggal di pemukiman yang padat dan kumuh. Dokter menduga bahwa pasien menderita suatu infeksi bakteri yang ditularkan melalui feses kutu pediculus humanus. **Apakah diagnosis penyakit pasien?**
 A. Murine Typhus
 B. Tifus Epidemic
 C. Rocky Mountain Spotted Fever
@@ -169,7 +169,8 @@ E. Tumor leher
 
 26. Perbedaan salep dan obat mata?
 
-27. soal tentang ini --> ![[Pasted image 20250519223830.png]]
+27. soal tentang ini --> 
+![[Pasted image 20250519223830.png]]
 
 28. Habis op katarak, terus kataraknya kambuh lagi. Tatalaksana selanjutnya?
 
