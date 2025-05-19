@@ -43,6 +43,15 @@ export type Analytics =
       projectId?: string
     }
 
+
+export type PassProtected = {
+  /** Whether to enable password protected page rendering */
+  enabled: boolean
+  /** Iteration of derived key to encrypt page */
+  iteration: number
+}
+
+
 export interface GlobalConfiguration {
   pageTitle: string
   pageTitleSuffix?: string
@@ -59,6 +68,8 @@ export interface GlobalConfiguration {
   /** Base URL to use for CNAME files, sitemaps, and RSS feeds that require an absolute URL.
    *   Quartz will avoid using this as much as possible and use relative URLs most of the time
    */
+  /** Password protected page rendering */
+  passProtected: PassProtected
   baseUrl?: string
   theme: Theme
   /**

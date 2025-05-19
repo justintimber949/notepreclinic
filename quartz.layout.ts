@@ -1,11 +1,28 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Importing our custom PasswordProtection component
+import PasswordProtection from "./quartz/components/PasswordProtection"
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'justintimber949/notepreclinic',
+        // from data-repo-id
+        repoId: 'R_kgDOOqrT_w',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOOqrT_84CqMEy',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -24,6 +41,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // Add Password Protection component here
+    PasswordProtection(),
   ],
   left: [
     Component.PageTitle(),
