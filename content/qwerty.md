@@ -37,14 +37,14 @@ Pada ilustrasi diatas, **manakah sikap yang sesuai dengan prinsip etika jika and
 - B. Dokter mengikuti perintah pasien
 - C. Berkonsultasi ke PD dokter ahli
 - D. Menerapkan prinsip non maleficence
--E. Menyarankan untuk mencari second opinion
+- E. Menyarankan untuk mencari second opinion
 
 2. Seorang anak laki-laki berusia 4 tahun datang ke puskesmas bersama ayahnya untuk memeriksakan kesehatannya, dia terlahir dengan keadaan tuli. Paramedis dengan sabar dan sesekali bercerita untuk melatihnya berbicara.
 Pada ilustrasi diatas, **manakah dibawah ini pernyataan yang sesuai?**
-A. Termasuk disabilitas
-B. Termasuk sosial model
-C. Berhak mendapat hak yang sama
-D. Berhak untuk disembuhkan
+- A. Termasuk disabilitas
+- B. Termasuk sosial model
+- C. Berhak mendapat hak yang sama
+- D. Berhak untuk disembuhkan
 
 3. Jenis sinusitis yang tidak didahului rhinitis?
 

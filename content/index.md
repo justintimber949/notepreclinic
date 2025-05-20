@@ -6,7 +6,7 @@ title: Beranda
 Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup mata, telinga, hidung, tenggorok, dan leher.
 
 > **Modul Referensi:**  
-> [[https://bit.ly/ModulSpesialSenses2025|Modul Special Sense 2025.pdf]]
+> [[Modul Special Sense 2025.pdf]]
 
 ---
 ## Daftar Tema
@@ -31,7 +31,8 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 ---
 ### Tema 3: Penyakit Hidung, Tenggorok, dan Kepala Leher
 [[Daftar Penyakit Tema 3]]
-#### Kuliah 16: [[Patomekanisme gangguan pada hidung]]
+#### Kuliah 16: [[KULIAH 16 PATOMEKANISME GANGGUAN PADA HIDUNG]]
+[[KULIAH 16 PATOMEKANISME GANGGUAN PADA HIDUNG 2]]
 #### Kuliah 17: [[KULIAH 17 PEMERIKSAAN DAN TATALAKSANA PADA THT-KL|PEMERIKSAAN DAN TATALAKSANA PADA THT-KL]]
 #### Kuliah 18: [[Penyakit Hidung]]
 #### Kuliah 19: [[Penyakit sinus hidung]]

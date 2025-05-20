@@ -1,7 +1,7 @@
-;  by: Farida
+by: Farida
 
 > **Modul Referensi:**  
->  [[TEKNIK PEMERIKSAAN TELINGA, HIDUNG, DAN TENGGOROK.pdf]]
+> [[TEKNIK PEMERIKSAAN TELINGA, HIDUNG, DAN TENGGOROK.pdf]]
 
 ---
 > [!danger] Ringkasan Penting Berdasarkan Modul!
