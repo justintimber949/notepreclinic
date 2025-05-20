@@ -1,10 +1,10 @@
 ---
-title: This is a private note
-draft: false
+title: This is a sacret note
+draft: true
 ---
 > [!warning]
 > # IMPORTANT NOTICE
-> **CONFIDENTIAL MATERIAL - PRIVATE STUDY PURPOSES ONLY**
+> **CONFIDENTIAL MATERIAL - sacret STUDY PURPOSES ONLY**
 > 
 > ⚠️ **Please ensure your privacy before proceeding** ⚠️ 
 >  
