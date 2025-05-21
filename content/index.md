@@ -31,10 +31,10 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 ---
 ### Tema 3: Penyakit Hidung, Tenggorok, dan Kepala Leher
 [[Daftar Penyakit Tema 3]]
-#### Kuliah 16: [[KULIAH 16 PATOMEKANISME GANGGUAN PADA HIDUNG]]
-[[KULIAH 16 PATOMEKANISME GANGGUAN PADA HIDUNG 2]]
+#### Kuliah 16: [[KULIAH 16 PATOMEKANISME GANGGUAN PADA HIDUNG|PATOMEKANISME GANGGUAN PADA HIDUNG]]
+[[KULIAH 16 PATOMEKANISME GANGGUAN PADA HIDUNG 2|PATOMEKANISME GANGGUAN PADA HIDUNG 2]]
 #### Kuliah 17: [[KULIAH 17 PEMERIKSAAN DAN TATALAKSANA PADA THT-KL|PEMERIKSAAN DAN TATALAKSANA PADA THT-KL]]
-#### Kuliah 18: [[Penyakit Hidung]]
+#### Kuliah 18: [[KULIAH 18 PENYAKIT HIDUNG|PENYAKIT HIDUNG]]
 #### Kuliah 19: [[Penyakit sinus hidung]]
 #### Kuliah 20: [[Penyakit tenggorok]]
 #### Kuliah 21: [[Gangguan pada Kepala dan Leher]]
