@@ -33,18 +33,18 @@ draft: false
 
 1. Seorang laki-laki dewasa berusia 30 tahun mengalami kecelakan lalu lintas dan mengakibatkan kedua kakinya harus diamputasi namun si pemuda tersebut tidak bersedia untuk diamputasi dengan alasan akan kesulitan mencari pekerjaan dikemudian hari.
 Pada ilustrasi diatas, **manakah sikap yang sesuai dengan prinsip etika jika anda yang ditunjuk sebagai dokter yang merawat?**
-- A. Merujuk ke RS lebih lengkap peralatanya
-- B. Dokter mengikuti perintah pasien
-- C. Berkonsultasi ke PD dokter ahli
-- D. Menerapkan prinsip non maleficence
-- E. Menyarankan untuk mencari second opinion
+A. Merujuk ke RS lebih lengkap peralatanya
+B. Dokter mengikuti perintah pasien
+C. Berkonsultasi ke PD dokter ahli
+D. Menerapkan prinsip non maleficence
+E. Menyarankan untuk mencari second opinion
 
 2. Seorang anak laki-laki berusia 4 tahun datang ke puskesmas bersama ayahnya untuk memeriksakan kesehatannya, dia terlahir dengan keadaan tuli. Paramedis dengan sabar dan sesekali bercerita untuk melatihnya berbicara.
 Pada ilustrasi diatas, **manakah dibawah ini pernyataan yang sesuai?**
-- A. Termasuk disabilitas
-- B. Termasuk sosial model
-- C. Berhak mendapat hak yang sama
-- D. Berhak untuk disembuhkan
+A. Termasuk disabilitas
+B. Termasuk sosial model
+C. Berhak mendapat hak yang sama
+D. Berhak untuk disembuhkan
 
 3. Jenis sinusitis yang tidak didahului rhinitis?
 

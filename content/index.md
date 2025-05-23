@@ -37,13 +37,14 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 #### Kuliah 18: [[KULIAH 18 PENYAKIT HIDUNG|PENYAKIT HIDUNG]]
 #### Kuliah 19: [[Penyakit sinus hidung]]
 #### Kuliah 20: [[Penyakit tenggorok]]
-#### Kuliah 21: [[Gangguan pada Kepala dan Leher]]
+#### Kuliah 21: [[KULIAH 21 GANGGUAN PADA KEPALA DAN LEHER]]
 #### Kuliah 22: [[KULIAH 22 RADIOLOGI SISTEM INDERA|RADIOLOGI SISTEM INDERA]]
 #### Kuliah 23: [[KULIAH 23 FARMAKOLOGI PENGINDRAAN|FARMAKOLOGI PENGINDRAAN]]
 
 ---
 ### Tema 4: Penyakit Telinga
 #### Kuliah 24: [[Penyakit Telinga Luar]]
+[[Lanjutan Telinga Luar]]
 #### Kuliah 25: [[Penyakit Telinga Tengah dan Mastoid]]
 #### Kuliah 26: [[Penyakit Telinga Dalam dan Gangguan Keseimbangan]]
 #### Kuliah 27: [[Keganasan THT-KL]]
