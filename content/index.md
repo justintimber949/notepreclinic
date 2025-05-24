@@ -25,7 +25,6 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 #### Kuliah 8: [[KULIAH 8 PENYAKIT LENSA DAN VITREUS|PENYAKIT LENSA DAN VITREUS]]
 #### Kuliah 9: [[KULIAH 9 PENYAKIT RETINA DAN KOROID|PENYAKIT RETINA DAN KOROID]]
 #### Kuliah 11 & 12 & 13: [[KULIAH 11, 12, & 13 GANGGUAN PERSEPSI VISUAL, KELAINAN REFRAKSI, DAN PENYAKIT ORBITA DAN KEDUDUKAN BOLA MATA|GANGGUAN PERSEPSI VISUAL, KELAINAN REFRAKSI, DAN PENYAKIT ORBITA DAN KEDUDUKAN BOLA MATA]]
-#### Kuliah 14: [[KULIAH 14 KEGANASAN PADA MATA|KEGANASAN PADA MATA]]  Masih Edit
 #### Kuliah 15: [[KULIAH 15 PEMERIKSAAN DIAGNOSTIK DAN TATALAKSANA MATA|PEMERIKSAAN DIAGNOSTIK DAN TATALAKSANA MATA]]
 
 ---
@@ -45,8 +44,8 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 
 ---
 ### Tema 4: Penyakit Telinga
-#### Kuliah 24: [[Penyakit Telinga Luar]]
-[[Lanjutan Telinga Luar]]
+#### Kuliah 24: [[KULIAH 24 PENYAKIT TELINGA LUAR|PENYAKIT TELINGA LUAR]]
+[[KULIAH 24 LANJUTAN PENYAKIT TELINGA LUAR|LANJUTAN PENYAKIT TELINGA LUAR]]
 #### Kuliah 25: [[Penyakit Telinga Tengah dan Mastoid]]
 #### Kuliah 26: [[Penyakit Telinga Dalam dan Gangguan Keseimbangan]]
 #### Kuliah 27: [[Keganasan THT-KL]]

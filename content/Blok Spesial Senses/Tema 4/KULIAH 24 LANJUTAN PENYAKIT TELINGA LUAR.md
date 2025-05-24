@@ -348,3 +348,6 @@ Telinga memiliki mekanisme pembersihan alami:
 - Rasa penuh atau tersumbat di telinga
 - Demam disertai keluhan telinga
 - Gejala tidak membaik dengan perawatan rumah
+
+---
+Tags: #TEMA4 

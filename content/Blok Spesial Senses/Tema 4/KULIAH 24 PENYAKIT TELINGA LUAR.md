@@ -491,3 +491,6 @@ Telinga dibagi menjadi 3 bagian utama:
 3. **Hati-hati** dengan spekulum telinga, jangan terlalu dalam
 4. **Dokumentasi** findings dengan baik
 5. **Edukasi pasien
+
+---
+Tags: #TEMA4 
