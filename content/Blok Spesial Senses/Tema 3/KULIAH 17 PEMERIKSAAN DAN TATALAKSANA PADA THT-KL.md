@@ -1,4 +1,4 @@
-by: Farida
+by: dr Farida
 
 > **Modul Referensi:**  
 > [[TEKNIK PEMERIKSAAN TELINGA, HIDUNG, DAN TENGGOROK.pdf]]

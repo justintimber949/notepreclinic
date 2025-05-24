@@ -1,3 +1,9 @@
+by: dr Farida
+
+> **Modul Referensi:**  
+> [[K-16 GANGGUAN KEPALA LEHER.pdf]]
+
+---
 # PENYAKIT KEPALA LEHER
 
 ## A. FISTULA DAN KISTA BRANKIAL
@@ -353,3 +359,6 @@ Abses Bezold tampak sebagai pembengkakan di bawah mastoid, di sepanjang perjalan
 ### Gambar Mastoiditis
 
 Pada mastoiditis, terdapat tanda radang pada daerah mastoid, tampak kemerahan, bengkak, dan nyeri tekan. Pada pemeriksaan CT scan mastoid, terlihat sel-sel mastoid yang terisi cairan/debris dengan kemungkinan erosi septum antar sel.
+
+---
+Tags: #TEMA3
