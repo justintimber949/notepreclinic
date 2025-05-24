@@ -1,0 +1,1 @@
+- **Hiposmia:** Penurunan kemampuan untuk mencium bau.

@@ -1,0 +1,1 @@
+- **Kongesti nasal:** Hidung tersumbat atau terasa penuh.

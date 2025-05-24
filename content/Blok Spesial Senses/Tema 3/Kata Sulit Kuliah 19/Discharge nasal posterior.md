@@ -1,0 +1,2 @@
+- **Discharge nasal posterior:** Cairan yang mengalir dari hidung ke bagian belakang tenggorokan (postnasal drip).
+- **Purulen atau berubah warna:** Cairan tersebut mengandung nanah atau memiliki warna yang tidak normal (misalnya, kuning, hijau, atau coklat), yang menunjukkan adanya infeksi.

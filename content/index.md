@@ -34,6 +34,7 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 #### Kuliah 16: [[KULIAH 16 PATOMEKANISME GANGGUAN PADA HIDUNG|PATOMEKANISME GANGGUAN PADA HIDUNG]]
 
 #### Kuliah 17: [[KULIAH 17 PEMERIKSAAN DAN TATALAKSANA PADA THT-KL|PEMERIKSAAN DAN TATALAKSANA PADA THT-KL]]
+[[Updated Kuliah 17]]
 #### Kuliah 18: [[KULIAH 18 PENYAKIT HIDUNG|PENYAKIT HIDUNG]]
 [[Updated Kuliah 18 PENYAKIT HIDUNG|Updated PENYAKIT HIDUNG]]
 #### Kuliah 19: [[Penyakit sinus hidung]]

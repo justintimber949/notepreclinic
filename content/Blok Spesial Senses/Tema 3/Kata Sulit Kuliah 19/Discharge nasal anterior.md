@@ -1,0 +1,2 @@
+- **Discharge nasal anterior:** Keluarnya cairan dari hidung bagian depan.
+- **Purulen:** Cairan tersebut mengandung nanah, yang biasanya berwarna kuning atau hijau dan menunjukkan adanya infeksi bakteri.

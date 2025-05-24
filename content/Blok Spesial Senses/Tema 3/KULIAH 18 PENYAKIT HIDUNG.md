@@ -364,3 +364,5 @@ Berdasarkan konsensus dari ARIA:
 1. Hellings PW. What is allergic rhinitis. EAACI, 2015, pp.2-4.
 2. Mailasari A. Penegakan Diagnosis Penyakit THT yang berkaitan dengan Rinitis Alergi. 2022
 3. Prepageran N. Managing allergic rhinitis and chronic rhinosin
+---
+tags: #TEMA3 

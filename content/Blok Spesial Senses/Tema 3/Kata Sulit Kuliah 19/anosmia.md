@@ -1,0 +1,1 @@
+- **Anosmia:** Kehilangan kemampuan untuk mencium bau.

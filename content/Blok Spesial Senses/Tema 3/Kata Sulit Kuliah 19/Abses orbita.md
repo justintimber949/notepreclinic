@@ -1,0 +1,2 @@
+- **Abses orbita:** Kumpulan nanah di dalam jaringan orbita. Ini adalah komplikasi orbita yang paling parah dan mengancam penglihatan.
+- **Penyebab:** Penyebaran infeksi langsung ke dalam jaringan orbita, membentuk abses.

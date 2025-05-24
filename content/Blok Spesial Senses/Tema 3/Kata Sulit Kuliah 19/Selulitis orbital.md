@@ -1,0 +1,4 @@
+- **Selulitis:** Infeksi jaringan lunak.
+- **Orbital:** Berkaitan dengan orbita (rongga mata).
+- **Selulitis orbital:** Infeksi jaringan lunak di dalam orbita, tetapi di belakang septum orbital (lapisan jaringan fibrosa yang memisahkan kelopak mata dari bagian dalam orbita). Ini adalah infeksi yang lebih serius daripada edema palpebral.
+- **Penyebab:** Penyebaran infeksi dari sinus ke jaringan lemak dan otot di dalam orbita.

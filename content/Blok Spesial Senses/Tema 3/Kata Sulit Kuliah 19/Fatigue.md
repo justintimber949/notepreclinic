@@ -1,0 +1,1 @@
+- Perasaan lelah, lesu, atau kekurangan energi. Infeksi kronis atau peradangan dapat menyebabkan fatigue.

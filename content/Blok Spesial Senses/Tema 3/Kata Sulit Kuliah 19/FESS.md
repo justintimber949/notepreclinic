@@ -1,0 +1,2 @@
+- **FESS:** Prosedur bedah yang menggunakan endoskop (tabung tipis dengan kamera dan lampu) yang dimasukkan ke dalam hidung untuk melihat dan mengangkat jaringan yang menghalangi saluran sinus.
+- **Functional:** Tujuannya adalah untuk memulihkan fungsi normal sinus dengan membuka saluran drainase dan ventilasi, bukan hanya mengangkat semua jaringan yang terinfeksi.

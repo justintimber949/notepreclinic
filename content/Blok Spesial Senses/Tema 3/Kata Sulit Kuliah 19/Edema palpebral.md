@@ -1,0 +1,3 @@
+- **Edema palpebral:** Pembengkakan pada kelopak mata. Ini adalah komplikasi orbita yang paling ringan dan seringkali merupakan tanda pertama penyebaran infeksi dari sinus ke orbita.
+- **Penyebab:** Peradangan dan penumpukan cairan di jaringan kelopak mata akibat infeksi sinus yang berdekatan.
+- **Gejala:** Kelopak mata bengkak, merah, dan terasa nyeri.

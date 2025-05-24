@@ -1,0 +1,2 @@
+- **Regio fasialis:** Area wajah.
+- Ini mengacu pada perasaan hidung tersumbat atau tekanan di wajah, terutama di sekitar hidung, pipi, atau dahi.

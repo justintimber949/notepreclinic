@@ -1,0 +1,1 @@
+- **Obstruksi nasal:** Kesulitan bernapas melalui hidung karena adanya penyumbatan.

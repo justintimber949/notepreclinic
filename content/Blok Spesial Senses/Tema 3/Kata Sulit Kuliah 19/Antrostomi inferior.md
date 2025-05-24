@@ -1,0 +1,8 @@
+- **Membuat lubang drainase:** Prosedur bedah yang melibatkan pembuatan lubang baru di dinding lateral hidung di bawah konka inferior (struktur tulang di dalam hidung) untuk meningkatkan drainase dari sinus maksilaris.
+- **Tujuan:** Untuk memfasilitasi drainase sinus maksilaris dan mengurangi penumpukan lendir.
+- **Keterbatasan:**
+    - Tidak mengatasi masalah di sinus lain: Hanya berfokus pada sinus maksilaris.
+    - Dapat menyebabkan komplikasi: Seperti perdarahan, infeksi, atau penyempitan lubang drainase.
+- **Indikasi:**
+    - Jarang digunakan sebagai prosedur tunggal untuk sinusitis kronis.
+    - Dapat digunakan sebagai tambahan untuk FESS atau prosedur lain untuk meningkatkan drainase sinus maksilaris.

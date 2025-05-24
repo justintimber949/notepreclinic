@@ -1,0 +1,7 @@
+- **Akses melalui fossa canina:** Prosedur bedah yang melibatkan pembuatan sayatan di atas gusi di bawah bibir atas (di fossa canina) untuk mengakses sinus maksilaris (sinus terbesar di pipi).
+- **Tujuan:** Untuk mengangkat jaringan yang terinfeksi, polip, atau tumor dari sinus maksilaris.
+- **Keterbatasan:**
+    - Lebih invasif daripada FESS: Memerlukan sayatan eksternal.
+    - Risiko komplikasi lebih tinggi: Termasuk kerusakan saraf yang menyebabkan mati rasa di pipi atau gigi, pembentukan fistula oroantral (hubungan abnormal antara mulut dan sinus), dan perubahan bentuk wajah.
+- **Indikasi:**
+    - Biasanya digunakan hanya jika FESS tidak memungkinkan atau tidak berhasil, atau jika ada penyakit yang luas di sinus maksilaris yang memerlukan akses yang lebih luas.

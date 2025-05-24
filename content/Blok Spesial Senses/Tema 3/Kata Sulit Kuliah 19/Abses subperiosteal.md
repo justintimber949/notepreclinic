@@ -1,0 +1,4 @@
+- **Abses:** Kumpulan nanah yang terlokalisasi.
+- **Subperiosteal:** Terletak di bawah periosteum (lapisan jaringan yang menutupi tulang).
+- **Abses subperiosteal:** Kumpulan nanah di antara tulang orbita dan periosteum. Ini adalah komplikasi yang lebih serius daripada selulitis orbital.
+- **Penyebab:** Penyebaran infeksi dari sinus ke ruang subperiosteal.

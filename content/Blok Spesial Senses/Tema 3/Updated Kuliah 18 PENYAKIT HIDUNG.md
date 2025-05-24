@@ -346,3 +346,5 @@ Video Patofisiologi:
 2. **Gambar Allergic Facies**: Menggambarkan tanda-tanda fisik khas pada penderita rinitis alergi seperti allergic shiner (lingkaran hitam di mata), allergic salute (mengusap hidung), dan Dennie-Morgan lines.
 3. **Gambar Endoskopi**: Menunjukkan klasifikasi Danyoung dengan gambaran hipertrofi konka, lesung pipi, dan kerutan mukosa yang terlihat pada pemeriksaan endoskopi hidung.
 4. **Diagram Komorbiditas**: Menggambarkan hubungan rinitis alergi dengan berbagai penyakit lain seperti asma, sinusitis, otitis media, dan polip hidung.
+---
+tags: #TEMA3 

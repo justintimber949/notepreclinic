@@ -3,9 +3,12 @@ by:
 > **Modul Referensi:**  
 > [[Kul 19_Penyakit pada Sinus Hidung (Sinusitis Maksilaris) (FAR).pdf.pdf]]
 
+---
 # SINUSITIS MAKSILARIS
 
-_Catatan Kuliah Kedokteran_
+Anatomi Sinus
+
+<iframe width="800" height="600" src="https://human.biodigital.com/view?id=production/maleAdult/sinus_anatomy&lang=en&ref=share" frameborder="0" allowfullscreen></iframe>
 
 ## DEFINISI DAN KLASIFIKASI
 
@@ -125,11 +128,11 @@ Diagnosis ditegakkan jika memenuhi **minimal 2 kriteria mayor** ATAU **1 kriteri
 
 #### Kriteria Mayor:
 
-- Discharge nasal anterior yang purulen
-- Discharge nasal posterior yang purulen atau berubah warna
-- Kongesti atau obstruksi nasal
-- Kongesti atau rasa penuh regio fasialis
-- Hiposmia atau anosmia
+- [[Discharge nasal anterior]] yang purulen
+- [[Discharge nasal posterior]] yang purulen atau berubah warna
+- [[Kongesti]] atau [[obstruksi nasal]]
+- Kongesti atau rasa penuh [[regio fasialis]]
+- [[Hiposmia]] atau [[anosmia]]
 - Demam (untuk sinusitis akut)
 
 #### Kriteria Minor:
@@ -139,7 +142,7 @@ Diagnosis ditegakkan jika memenuhi **minimal 2 kriteria mayor** ATAU **1 kriteri
 - Halitosis (bau mulut)
 - Nyeri gigi
 - Demam (untuk sinusitis subakut atau kronis)
-- Fatigue
+- [[Fatigue]]
 
 ### Pemeriksaan Klinis
 
@@ -233,9 +236,9 @@ Diagnosis ditegakkan jika memenuhi **minimal 2 kriteria mayor** ATAU **1 kriteri
 
 Indikasi: sinusitis kronis yang tidak respon terapi medis atau ada komplikasi
 
-1. **FESS** (Functional Endoscopic Sinus Surgery): gold standard
-2. **Caldwell-Luc**: akses melalui fossa canina
-3. **Antrostomi inferior**: membuat lubang drainase
+1. **[[FESS]]** (Functional Endoscopic Sinus Surgery): gold standard
+2. **[[Caldwell-Luc]]**: akses melalui fossa canina
+3. **[[Antrostomi inferior]]**: membuat lubang drainase
 
 ---
 
@@ -243,10 +246,10 @@ Indikasi: sinusitis kronis yang tidak respon terapi medis atau ada komplikasi
 
 ### 1. Komplikasi Orbita
 
-- Edema palpebral
-- Selulitis orbital
-- Abses subperiosteal
-- Abses orbita
+- [[Edema palpebral]]
+- [[Selulitis orbital]]
+- [[Abses subperiosteal]]
+- [[Abses orbita]]
 
 ### 2. Komplikasi Intrakranial (Paling Berbahaya)
 
