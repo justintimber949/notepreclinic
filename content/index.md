@@ -6,7 +6,7 @@ title: Beranda
 Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup mata, telinga, hidung, tenggorok, dan leher.
 
 > **Modul Referensi:**  
-> [[Modul Special Sense 2025.pdf]]
+> [[https://bit.ly/ModulSpesialSenses2025|Modul Special Sense 2025.pdf]]
 
 ---
 ## Daftar Tema
@@ -58,6 +58,7 @@ Selamat datang di catatan *Special Senses*—blok sistem indera yang mencakup ma
 - Kuliah Tambahan: 
 
 ---
-tag: #TEMA1 #TEMA2 #TEMA3 #TEMA4
+tags: #TEMA1 #TEMA2 #TEMA3 #TEMA4
+
 > ✨ *Gunakan halaman ini sebagai peta belajar selama blok Special Senses. Update progres, dan tandai catatan yang sudah dikuasai.*
 
