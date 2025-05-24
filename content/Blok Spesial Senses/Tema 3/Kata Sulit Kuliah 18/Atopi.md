@@ -1,0 +1,2 @@
+- Atopi adalah predisposisi genetik untuk mengembangkan reaksi alergi (asma, rhinitis alergi, dermatitis atopik).
+- Dalam konteks ini, atopi (terutama rhinitis alergi) dapat membuat seseorang lebih rentan terhadap ISPA. Ini karena peradangan kronis yang terkait dengan rhinitis alergi dapat merusak lapisan pelindung saluran pernapasan, sehingga memudahkan virus dan bakteri untuk menginfeksi.

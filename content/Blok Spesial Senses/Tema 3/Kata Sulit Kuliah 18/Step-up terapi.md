@@ -1,0 +1,1 @@
+- **Step-up terapi:** Jika setelah beberapa waktu terapi, VAS tetap 5 atau lebih, ini berarti terapi saat ini tidak efektif. Oleh karena itu, perlu meningkatkan terapi ke tingkat berikutnya (misalnya, dari T1 ke T2, atau dari T2 ke T3, atau bahkan mempertimbangkan T4 jika diperlukan).

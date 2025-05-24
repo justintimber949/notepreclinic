@@ -1,0 +1,1 @@
+- Tekanan negatif dan peradangan di telinga tengah memicu pelepasan mediator inflamasi (seperti histamin, leukotrien) dan sitokin (protein yang berperan dalam komunikasi sel dan regulasi sistem imun). Pelepasan ini berkelanjutan karena masalah dengan tuba Eustachius dan peradangan terus berlanjut.

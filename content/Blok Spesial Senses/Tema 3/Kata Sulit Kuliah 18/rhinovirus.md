@@ -1,0 +1,3 @@
+- **Rhinovirus:** Penyebab paling umum dari pilek (common cold).
+- Molekul adhesi antar sel (terutama ICAM-1) berfungsi sebagai reseptor bagi rhinovirus. Ini berarti bahwa rhinovirus dapat menempel pada sel-sel saluran pernapasan melalui molekul adhesi ini.
+- Karena paparan alergen meningkatkan jumlah molekul adhesi antar sel, ini membuat individu dengan rhinitis alergi lebih rentan terhadap infeksi rhinovirus.

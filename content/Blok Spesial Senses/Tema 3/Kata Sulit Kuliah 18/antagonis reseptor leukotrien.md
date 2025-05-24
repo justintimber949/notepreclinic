@@ -1,0 +1,1 @@
+- **Antagonis reseptor leukotrien:** Obat yang menghambat aksi leukotrien, mediator inflamasi lain yang terlibat dalam reaksi alergi. Contohnya adalah montelukast.

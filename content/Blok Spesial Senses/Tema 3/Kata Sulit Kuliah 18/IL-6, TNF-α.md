@@ -1,0 +1,1 @@
+- **IL-6 dan TNF-α:** Sitokin pro-inflamasi yang berperan dalam peradangan akut dan kronis. Peningkatan kadar sitokin ini menunjukkan adanya peradangan yang signifikan di telinga tengah.

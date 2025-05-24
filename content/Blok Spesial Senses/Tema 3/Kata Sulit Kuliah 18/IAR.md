@@ -1,0 +1,1 @@
+- **IAR:** Intermittent Allergic Rhinitis (Rhinitis Alergi Intermiten/Berkala). Ini berarti gejala alergi terjadi kurang dari 4 hari seminggu atau kurang dari 4 minggu berturut-turut.

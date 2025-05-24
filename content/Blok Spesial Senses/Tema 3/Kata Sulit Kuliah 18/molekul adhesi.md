@@ -1,0 +1,2 @@
+- **Molekul adhesi antar sel (ICAM-1):** Protein yang terletak di permukaan sel dan membantu sel-sel untuk berinteraksi dan menempel satu sama lain. Dalam konteks ini, molekul adhesi antar sel berperan dalam proses inflamasi dan perekrutan sel-sel imun ke tempat peradangan.
+- Paparan alergen pada individu dengan rhinitis alergi memicu respons imun yang menyebabkan peningkatan produksi molekul adhesi antar sel di saluran pernapasan.

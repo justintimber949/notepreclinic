@@ -1,0 +1,1 @@
+- **Azelastine intranasal:** Antihistamin semprot hidung yang memberikan peredaan cepat dari gejala alergi. Kombinasi INCS dan azelastine dapat memberikan efek yang lebih baik daripada menggunakan salah satu obat saja.

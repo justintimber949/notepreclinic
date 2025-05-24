@@ -1,3 +1,7 @@
+by: dr Farida
+
+> **Modul Referensi:**  
+> [[Kul 18_PATOMEKANISME HIDUNG (reaksi alergi).pdf]]
 # RINITIS ALERGI
 
 **Catatan Materi Kedokteran**
@@ -40,12 +44,10 @@ Berbagai alergen dapat memicu rinitis alergi, umumnya dibagi menjadi:
     - Bulu hewan peliharaan (kucing, anjing, dll)
     - Jamur/kapang dalam ruangan
 - **Alergen Outdoor:**
-    
     - Serbuk sari (pohon, rumput, gulma)
     - Jamur luar ruangan
     - Polusi udara
 - **Iritan:**
-    
     - Asap rokok
     - Bau-bauan menyengat
     - Perubahan suhu dan kelembaban udara

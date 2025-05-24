@@ -1,0 +1,1 @@
+- **Biomarker:** Zat yang dapat diukur dalam tubuh dan menunjukkan kondisi medis tertentu.

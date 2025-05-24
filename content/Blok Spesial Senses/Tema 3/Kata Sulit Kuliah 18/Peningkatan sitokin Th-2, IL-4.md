@@ -1,0 +1,1 @@
+- **Sitokin Th-2 (IL-4):** Sitokin yang terkait dengan respons imun alergi. Peningkatan IL-4 menunjukkan adanya komponen alergi dalam peradangan telinga tengah.

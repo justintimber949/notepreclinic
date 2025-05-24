@@ -1,0 +1,1 @@
+- **Kortikosteroid intranasal (INCS):** Obat semprot hidung yang mengandung kortikosteroid, yang mengurangi peradangan di saluran hidung. Contohnya termasuk fluticasone propionate, budesonide, dan mometasone furoate. INCS sangat efektif dalam mengendalikan berbagai gejala rhinitis alergi, termasuk hidung tersumbat, pilek, dan bersin.

@@ -1,0 +1,2 @@
+- Tuba Eustachius adalah saluran yang menghubungkan telinga tengah dengan bagian belakang hidung dan tenggorokan. Fungsinya adalah untuk menyeimbangkan tekanan antara telinga tengah dan lingkungan luar, serta untuk mengalirkan cairan dari telinga tengah.
+- Disfungsi tuba Eustachius berarti tuba ini tidak berfungsi dengan baik, bisa karena tersumbat, meradang, atau tidak membuka dengan benar.

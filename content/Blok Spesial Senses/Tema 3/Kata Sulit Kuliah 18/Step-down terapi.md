@@ -1,0 +1,1 @@
+- **Step-down terapi:** Jika VAS kurang dari 2, ini berarti terapi sangat efektif dan gejala terkontrol dengan baik. Dalam hal ini, dapat dipertimbangkan untuk mengurangi terapi ke tingkat yang lebih rendah (misalnya, dari T3 ke T2, atau dari T2 ke T1) untuk meminimalkan efek samping dan biaya.

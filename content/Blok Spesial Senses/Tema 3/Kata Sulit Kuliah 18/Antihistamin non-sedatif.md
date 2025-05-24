@@ -1,0 +1,1 @@
+**Antihistamin non-sedatif:** Obat yang menghambat efek histamin, zat kimia yang dilepaskan selama reaksi alergi. Contohnya termasuk cetirizine, loratadine, dan fexofenadine. Mereka "non-sedatif" karena cenderung tidak menyebabkan kantuk seperti antihistamin generasi pertama

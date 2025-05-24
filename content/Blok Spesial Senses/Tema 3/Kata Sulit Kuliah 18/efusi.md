@@ -1,0 +1,1 @@
+- **Efusi:** Cairan yang terkumpul di telinga tengah.

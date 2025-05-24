@@ -1,0 +1,1 @@
+- Ketika tuba Eustachius tidak berfungsi, udara tidak dapat masuk ke telinga tengah untuk menyeimbangkan tekanan. Hal ini menyebabkan tekanan di telinga tengah menjadi lebih rendah (negatif) dibandingkan dengan tekanan di luar.

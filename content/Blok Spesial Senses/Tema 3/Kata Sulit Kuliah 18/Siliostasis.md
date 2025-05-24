@@ -1,0 +1,1 @@
+- **Siliostasis:** Berhentinya atau gangguan fungsi silia. Silia adalah rambut-rambut kecil di sel-sel yang melapisi saluran pernapasan, yang berfungsi untuk membersihkan lendir dan partikel asing.

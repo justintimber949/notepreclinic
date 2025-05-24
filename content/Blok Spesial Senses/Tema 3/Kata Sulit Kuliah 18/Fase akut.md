@@ -1,0 +1,4 @@
+- **Fase akut:** Ini adalah tahap awal atau perburukan kondisi.
+- **Edema konka:** Pembengkakan (edema) pada konka.
+- **Hipersekresi:** Peningkatan produksi lendir atau sekret di hidung.
+- **Infiltrasi eosinofil:** Eosinofil adalah jenis sel darah putih yang sering terlibat dalam reaksi alergi. Infiltrasi eosinofil berarti adanya peningkatan jumlah eosinofil di jaringan hidung, yang menunjukkan adanya proses inflamasi alergi.

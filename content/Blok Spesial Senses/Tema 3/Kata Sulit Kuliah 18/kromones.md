@@ -1,0 +1,1 @@
+- **Kromones:** Obat yang membantu mencegah pelepasan histamin dan mediator inflamasi lainnya dari sel mast. Contohnya adalah natrium kromoglikat.

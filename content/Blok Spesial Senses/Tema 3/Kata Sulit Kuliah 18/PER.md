@@ -1,0 +1,1 @@
+- **PER:** Persistent Allergic Rhinitis (Rhinitis Alergi Persisten/Menetap). Ini berarti gejala alergi terjadi 4 hari atau lebih seminggu dan selama 4 minggu atau lebih berturut-turut.

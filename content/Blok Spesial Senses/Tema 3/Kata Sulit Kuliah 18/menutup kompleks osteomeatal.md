@@ -1,0 +1,2 @@
+- **Kompleks osteomeatal:** Ini adalah saluran sempit di dalam hidung tempat drainase sinus terjadi.
+- **Menutup kompleks osteomeatal:** Jika konka membesar secara kronis, mereka dapat menghalangi atau menutup kompleks osteomeatal. Hal ini menghambat drainase sinus yang normal.

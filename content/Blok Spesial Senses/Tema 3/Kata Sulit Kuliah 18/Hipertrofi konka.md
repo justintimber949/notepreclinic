@@ -1,0 +1,1 @@
+- **Hipertrofi konka kronik:** Konka adalah struktur tulang yang dilapisi jaringan lunak di dalam hidung yang berfungsi melembapkan dan menghangatkan udara yang masuk. "Hipertrofi" berarti pembesaran. Jadi, hipertrofi konka kronik adalah kondisi di mana konka membesar dalam jangka waktu yang lama.

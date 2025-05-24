@@ -1,0 +1,1 @@
+- **Continue atau step-up (tergantung tipe):** Jika VAS antara 2 dan kurang dari 5, ini berarti terapi memberikan perbaikan, tetapi belum optimal. Keputusan untuk melanjutkan terapi yang sama atau meningkatkan terapi tergantung pada jenis rhinitis alergi (intermiten atau persisten) dan preferensi pasien. Jika gejalanya masih mengganggu, peningkatan terapi mungkin diperlukan.
