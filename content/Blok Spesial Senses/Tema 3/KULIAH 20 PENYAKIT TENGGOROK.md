@@ -17,6 +17,7 @@ by: dr Farida
 
 ## 1. TONSILITIS AKUT
 
+![[Pasted image 20250525132149.png]]
 ### Definisi
 
 Infeksi akut pada jaringan tonsil palatina (amandel) yang terletak di kedua sisi tenggorokan.
@@ -111,6 +112,7 @@ Infeksi akut pada jaringan tonsil palatina (amandel) yang terletak di kedua sisi
 
 ## 2. TONSILITIS KRONIK
 
+![[Pasted image 20250525132321.png]]
 ### Definisi
 
 Infeksi akut berulang pada jaringan tonsil yang menyebabkan hipertrofi folikel limfoid dan pembesaran tonsil permanen.
@@ -119,6 +121,8 @@ Infeksi akut berulang pada jaringan tonsil yang menyebabkan hipertrofi folikel l
 
 Infeksi berulang → hipertrofi folikel limfoid → tonsil hipertrofi → gangguan fungsi tonsil sebagai organ imun
 
+Tonsil Hipertrofi
+![[Pasted image 20250525132339.png]]
 ### Gejala Klinis
 
 - Nyeri telan ringan hingga hebat (saat eksaserbasi akut)
