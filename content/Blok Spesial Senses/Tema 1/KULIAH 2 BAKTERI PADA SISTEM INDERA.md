@@ -4,6 +4,79 @@ by: dr Alvi
 > [[Bakteri pada Sistem Indra.pdf]]
 
 ---
+> [!info] Fokus disini
+```
+BAKTERI OBLIGAT INTRACELLULER
+├── Chlamydiaceae
+│   ├── Chlamydia
+│   │   └── Chlamydia trachomatis
+│   │       ├── Karakteristik
+│   │       │   ├── Gram Negatif
+│   │       │   ├── Anaerob
+│   │       │   └── 18 Serovar
+│   │       ├── Manifestasi Klinis
+│   │       │   ├── Trakoma
+│   │       │   │   ├── Lakrimasi
+│   │       │   │   ├── Sekret Mukopurulen
+│   │       │   │   ├── Kebutaan
+│   │       │   │   └── Entropion, Trikiasis
+│   │       │   ├── Konjungtivitis Inklusi
+│   │       │   │   └── Sekret Mukopurulen (Neonatus)
+│   │       │   ├── Uretritis Non-gonokokus
+│   │       │   │   └── Disuria, Sekret Nonpurulen
+│   │       │   ├── Limfogranuloma Venereum (LGV)
+│   │       │   │   └── Groove Sign
+│   │       │   └── Pneumonia Neonatal
+│   │       │       └── Batuk Staccato
+│   │       └── Tatalaksana
+│   │           └── Azitromisin (Lini Pertama)
+│   └── Chlamydophila
+│       ├── Chlamydophila pneumoniae
+│       │   ├── Karakteristik
+│       │   │   ├── Badan Inklusi Padat
+│       │   │   ├── Resisten Sulfonamid
+│       │   │   └── Badan Elementer Pir
+│       │   ├── Manifestasi Klinis
+│       │   │   ├── Faringitis
+│       │   │   ├── Laringitis
+│       │   │   ├── Otitis Media
+│       │   │   └── Pneumonia
+│       │   └── Terapi
+│       │       └── Makrolida, Tetrasiklin, Fluorokuinolon
+│       └── Chlamydophila psittaci
+│           ├── Epidemiologi
+│           │   ├── Zoonosis (Psittacidae, Unggas)
+│           │   └── Inhalasi Feses/Sekret
+│           ├── Manifestasi Klinis
+│           │   ├── Mirip Influenza
+│           │   ├── Demam
+│           │   ├── Batuk Kering
+│           │   └── Pneumonia Bronkialis (Berat)
+│           └── Terapi
+│               └── Azitromisin, Klaritromisin, Eritromisin, Doksisiklin
+└── Rickettsiaceae
+    ├── Rickettsia
+    │   ├── R. prowazekii (Tifus Epidemik)
+    │   │   ├── Vektor: Kutu Manusia
+    │   │   ├── Ruam: Sentrifugal
+    │   │   └── Reinfeksi: Brill-Zinsser
+    │   └── R. rickettsii (Rocky Mountain Spotted Fever)
+    │       ├── Vektor: Sengkenit Kayu & Anjing
+    │       └── Ruam: Ekstremitas → Sentripetal
+    ├── Orientia
+    │   └── O. tsutsugamushi (Scrub Typhus)
+    │       └── Tanda Khas: Eskar
+    ├── Coxiella
+    │   └── C. burnetii (Q Fever)
+    │       ├── Penularan: Inhalasi
+    │       ├── Tidak Ada Ruam
+    │       └── Bentuk Kronis: Endokarditis
+    └── Ehrlichia
+        ├── E. chaffeensis (Human Monocytic Ehrlichiosis)
+        │   └── Vektor: Kutu
+        └── E. ewingii (Human Ehrlichiosis ewingii)
+            └── Mirip RMSF, Tanpa Ruam
+```
 # Catatan Materi: Bakteri Obligat Intraseluler pada Sistem Indra
 ## 1. Pengantar Bakteri Obligat Intraseluler
 

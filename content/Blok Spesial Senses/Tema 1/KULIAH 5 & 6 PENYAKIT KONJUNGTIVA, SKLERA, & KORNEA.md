@@ -4,6 +4,112 @@ by: dr Yul
 > [[Penyakit Konjungtiva, Sklera, & Kornea.pdf]]
 
 ---
+> [!info] Fokus disini
+
+```
+PENYAKIT MATA ANTERIOR
+├── KONJUNGTIVA
+│   ├── Anatomi
+│   │   ├── Konjungtiva Bulbi
+│   │   ├── Konjungtiva Palpebra
+│   │   └── Konjungtiva Forniks
+│   ├── Konjungtivitis
+│   │   ├── Gejala
+│   │   │   ├── Hiperemi
+│   │   │   ├── Edema
+│   │   │   ├── Nyeri
+│   │   │   └── Sekret (Watery, Mukoid, Purulen)
+│   │   ├── Jenis
+│   │   │   ├── Bakteri
+│   │   │   ├── Virus
+│   │   │   ├── Alergi
+│   │   │   └── Trakoma
+│   │   └── Terapi
+│   │       ├── Antibiotik (Bakteri)
+│   │       ├── Simptomatis (Virus)
+│   │       └── Tetracycline (Trakoma)
+│   ├── Degeneratif
+│   │   ├── Pterygium
+│   │   │   ├── Komplikasi (Kosmetik, Iritasi, Visus)
+│   │   │   └── Penanganan (Eksisi, Cangkok, Mitomycin C)
+│   │   └── Pinguecula
+│   │       └── Terapi (Steroid jika inflamasi)
+│   └── Lain-lain
+│       ├── Benda Asing
+│       ├── Laserasi
+│       └── Perdarahan Subkonjungtiva
+├── KORNEA
+│   ├── Karakteristik
+│   │   ├── Avaskuler
+│   │   ├── Transparan
+│   │   └── Innervasi Sensorik Tinggi
+│   ├── Lapisan
+│   │   ├── Epitel
+│   │   ├── Bowman
+│   │   ├── Stroma
+│   │   ├── Descemet
+│   │   └── Endotel
+│   ├── Keratitis
+│   │   ├── Gejala (Visus Kabur, Silau, Nyeri)
+│   │   ├── Tanda (Blefarospasme, Injeksi, Infiltrat)
+│   │   ├── Predisposisi (Blefaritis, Lensa Kontak, Trauma)
+│   │   ├── Patogen
+│   │   │   ├── Bakteri
+│   │   │   ├── Virus
+│   │   │   ├── Acanthamoeba
+│   │   │   └── Jamur
+│   │   ├── Bakterial
+│   │   │   ├── Diagnosis (Klinis, Lab)
+│   │   │   └── Terapi (Sikloplegik, Analgesik, Antibiotik)
+│   │   ├── Jamur
+│   │   │   ├── Gejala (Sakit Kepala, Tidak Akut)
+│   │   │   ├── Tanda (Hifa, Infiltrat Satelit)
+│   │   │   └── Terapi (Natamycin, Amphotericin B)
+│   │   ├── Virus Herpes Simpleks
+│   │   │   ├── Patogenesis (Kontak, Reaktivasi)
+│   │   │   ├── Gejala (Blefarokonjungtivitis, Keratitis)
+│   │   │   └── Terapi (Asiklovir)
+│   │   ├── Herpes Zoster Oftalmikus
+│   │   │   ├── Patogenesis (Reaktivasi)
+│   │   │   ├── Gejala (Ruam, Neuralgia, Keratitis)
+│   │   │   └── Terapi (Asiklovir, Kortikosteroid)
+│   │   ├── Interstitial
+│   │   │   ├── Patogenesis (Imun-Mediated)
+│   │   │   └── Terapi (Imunosupresan)
+│   │   └── Infiltrat Marginal
+│   │       ├── Patogenesis (Hipersensitivitas)
+│   │       └── Terapi (Steroid, Antibiotik)
+│   ├── Trauma
+│   │   ├── Abrasi
+│   │   ├── Luka Bakar
+│   │   └── Benda Asing
+│   ├── Lain-lain
+│   │   ├── Keratokonjungtivitis Sika
+│   │   ├── Edema Kornea
+│   │   ├── Xeroftalmia
+│   │   ├── Masalah Lensa Kontak
+│   │   ├── Keratokonus
+│   │   └── Megalo/Mikrokornea
+└── SKLERA
+    ├── Anatomi
+    │   ├── Episklera
+    │   ├── Stroma
+    │   └── Lamina Fusca
+    ├── Episkleritis
+    │   ├── Patogenesis (Self-Limited)
+    │   ├── Gejala (Transien, Merah Terang)
+    │   ├── Klasifikasi (Simpel, Nodular)
+    │   └── Terapi (NSAID, Kortikosteroid)
+    └── Skleritis
+        ├── Patogenesis (Imun-Mediated)
+        ├── Gejala (Nyeri, Violaceous Hue)
+        ├── Jenis
+        │   ├── Anterior Noduler
+        │   └── Necrotizing
+        ├── Komplikasi (Keratitis, Uveitis, Katarak)
+        └── Penanganan (Lab, Konsultasi, Kortikosteroid, Imunosupresif)
+```
+
 > [!danger] Rangkuman Penting
 
 | **Topik**                                   | **Deskripsi Singkat**                                                                                                                                                                                                                                                                   | **Kode** |

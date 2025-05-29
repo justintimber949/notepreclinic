@@ -4,6 +4,102 @@ by: dr Yul
 > [[Orbita Palpebra, Aparatus lakrimalis, dan Keganasan Pada Mata.pdf]]
 
 ---
+> [!info] Fokus disini
+
+```
+PENYAKIT MATA
+├── PALPEBRA (KELOPAK MATA)
+│   ├── Fungsi
+│   │   ├── Proteksi Fisik & Kimia
+│   │   ├── Pembilasan & Pelicinan
+│   │   ├── Pengaturan Sinar
+│   │   └── Fungsi Kedip
+│   ├── Mekanisme Pergerakan
+│   │   ├── Menutup (N. VII)
+│   │   └── Membuka (N. III)
+│   ├── Kelainan
+│   │   ├── Radang
+│   │   │   ├── Blefaritis
+│   │   │   ├── Hordeolum
+│   │   │   ├── Kalazion
+│   │   │   └── Abses
+│   │   ├── Posisi
+│   │   │   ├── Entropion
+│   │   │   └── Ektropion
+│   │   ├── Tumor
+│   │   │   ├── Jinak
+│   │   │   │   ├── Nevus
+│   │   │   │   ├── Verruca
+│   │   │   │   ├── Xanthelasma
+│   │   │   │   └── Hemangioma
+│   │   │   └── Ganas
+│   │   │       ├── Basalioma
+│   │   │       ├── Skuamosa Sel Karsinoma
+│   │   │       └── Karsinoma Kelenjar Meibom
+│   │   └── Kongenital
+│   │       ├── Koloboma
+│   │       ├── Epikantus
+│   │       ├── Ptosis
+│   │       └── Ankyloblefaron
+├── APARATUS LAKRIMALIS (SISTEM AIR MATA)
+│   ├── Komponen
+│   │   ├── Kelenjar Lakrimalis
+│   │   ├── Punktum
+│   │   ├── Kanalikulus
+│   │   ├── Kantong Lakrimalis
+│   │   └── Duktus Nasolakrimalis
+│   ├── Fungsi
+│   │   └── Produksi & Aliran Air Mata
+│   ├── Gangguan
+│   │   ├── Epifora
+│   │   └── Keratitis Sika
+│   └── Infeksi
+│       ├── Dakriosistitis
+│       ├── Kanalikulitis
+│       └── Dakrioadenitis
+├── ORBITA
+│   ├── Anatomi
+│   │   ├── Dinding
+│   │   │   ├── Atap (Os Frontale, Os Sphenoid)
+│   │   │   └── Lateral (Os Zygoma, Os Frontale, Os Sphenoid)
+│   │   └── Isi
+│   │       ├── Bola Mata
+│   │       ├── Saraf
+│   │       ├── Otot
+│   │       └── Jaringan Lemak
+│   ├── Pemeriksaan
+│   │   ├── Medis (Riwayat, Pemeriksaan Mata & Orbita)
+│   │   ├── Penunjang (Radiologi, MRI, USG, CT Scan)
+│   │   └── Konsultasi (Bedah Saraf, THT, IPD/IKA, Anestesi)
+│   ├── Kelainan
+│   │   ├── Kongenital (Anoftalmi, Mikrooftalmi)
+│   │   ├── Infeksi & Inflamasi (Selulitis, Oftalmopati Graves)
+│   │   ├── Trauma
+│   │   └── Neoplasma
+│   ├── Proptosis (Eksoftalmos)
+│   │   ├── Akut (Selulitis, Perdarahan)
+│   │   ├── Pulsating (Fistula, Tumor Vaskular)
+│   │   ├── Unilateral
+│   │   └── Bilateral (Endokrin, Miopia Tinggi)
+│   └── Enoftalmos
+│       └── Atrofi Lemak Orbital, Sindrom Horner, Fraktur
+└── ONKOLOGI (TUMOR MATA)
+    ├── Tumor Primer
+    │   ├── Konjungtiva
+    │   │   ├── Jinak (Nevus, Papiloma, Granuloma)
+    │   │   └── Ganas (Karsinoma, Melanoma Maligna, Limfosarkoma)
+    │   ├── Kornea
+    │   │   ├── Jinak (Jarang)
+    │   │   └── Ganas (Epitelioma, Melanoma)
+    │   └── Intraokuli
+    │       ├── Jinak (Nevus, Hemangioma Koroid)
+    │       └── Ganas (Melanoma Maligna, Retinoblastoma)
+    ├── Tumor Sekunder (Kelopak Mata)
+    │   ├── Jinak (Nevus, Verruca, Xanthelasma, Hemangioma)
+    │   └── Ganas (Karsinoma Sel Basal & Skuamosa, Sarkoma, Melanoma Maligna)
+    └── Tumor Metastase (Karsinoma Payudara, Neuroblastoma)
+```
+
 > [!danger] Ringkasan Penting! Materi 1
 
 | **Kelainan**                      | **Deskripsi**                                                                                                                                           | **Tingkatan** |
