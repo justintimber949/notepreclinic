@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: '<G-VWS875YZFT>',
+      tagId: 'G-VWS875YZFT',
     },
     locale: "en-US",
     baseUrl: "notepreclinic.git",
