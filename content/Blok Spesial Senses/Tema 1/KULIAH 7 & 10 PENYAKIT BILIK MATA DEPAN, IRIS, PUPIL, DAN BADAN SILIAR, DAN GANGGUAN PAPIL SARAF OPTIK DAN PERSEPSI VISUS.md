@@ -2,6 +2,146 @@ by: dr Yul
 
 > **Modul Referensi:**  
 > [[Glaukoma & Neurooftalmologi.pdf]]
+
+---
+> [!info] Fokus disini
+
+```
+PENYAKIT MATA
+├── GLAUKOMA
+│   ├── Definisi (Neuropati Optik, Kelainan Lapang Pandang, Atrofi Papil, TIO Tinggi)
+│   ├── Tekanan Intraokular (TIO)
+│   │   ├── Normal (8-21 mmHg)
+│   │   ├── Tinggi (>21 mmHg)
+│   │   └── Variasi Diurnal
+│   ├── Dinamika Humor Akuos
+│   │   ├── Produksi (Epitel Badan Siliar)
+│   │   ├── Aliran (Bilik Mata Belakang → Pupil → Bilik Mata Depan)
+│   │   └── Penyaliran
+│   │       ├── Konvensional (Trabekuler Meshwork → Kanal Schlemm)
+│   │       └── Non-Konvensional (Uvea Sklera)
+│   ├── Cara Pemeriksaan TIO
+│   │   ├── Tonometer Applanasi (Kontak, Non-Kontak)
+│   │   ├── Tonometer Indentasi Schiotz
+│   │   └── Pemeriksaan Digital (Subjektif)
+│   ├── Papil Nervus Optikus
+│   │   ├── C/D Ratio Normal (0.2-0.3)
+│   │   └── Tanda Glaukoma (Ekskavasi > 0.6)
+│   ├── Pemeriksaan Lapang Pandang
+│   │   ├── Konfrontasi Test
+│   │   ├── Tangent Screen
+│   │   ├── Perimeter Goldman
+│   │   └── Komputer (Octopus, Humphrey)
+│   ├── Klasifikasi
+│   │   ├── Glaukoma Primer
+│   │   │   ├── Sudut Terbuka (Kronis Simpleks)
+│   │   │   └── Sudut Tertutup (Akut Kongestif)
+│   │   ├── Glaukoma Sekunder
+│   │   │   ├── Akibat Katarak (Fakomorfik, Fakolitik)
+│   │   │   ├── Akibat Uveitis (Seklusi Pupil, Sel Inflamasi)
+│   │   │   ├── Akibat Hifema
+│   │   │   ├── Akibat Rubeosis
+│   │   │   └── Akibat Kortikosteroid
+│   │   ├── Glaukoma Kongenital
+│   │   └── Glaukoma Absolut (Visus Nol/LP-)
+│   ├── Epidemiologi Glaukoma Primer
+│   │   ├── Prevalensi (>36 Tahun, 1.5%)
+│   │   ├── Ras (Kulit Hitam > Kulit Putih)
+│   │   ├── Jenis (Sudut Terbuka > Kaukasia, Sudut Tertutup > Asia)
+│   │   └── Faktor Genetik
+│   ├── Glaukoma Sudut Terbuka (POAG)
+│   │   ├── Gejala (Mata Putih, Penglihatan Kabur, Tunnel Vision)
+│   │   ├── Tanda (TIO > 22 mmHg, Sudut Terbuka, Penyempitan Lapang Pandang, Pelebaran C/D Ratio)
+│   │   ├── Patofisiologi (Degenerasi Trabekular Meshwork, Kanal Schlemm, Genetik)
+│   │   └── Terapi
+│   │       ├── Obat-obatan (Pilokarpin, Timolol, Betaksolol, Asetazolamid)
+│   │       ├── Laser Trabekuloplasti
+│   │       └── Tindakan Bedah (Trabekulektomi)
+│   ├── Hipertensi Okuli
+│   │   ├── Definisi (TIO Tinggi, Tanpa Kerusakan Saraf Optik/Lapang Pandang)
+│   │   ├── TIO > 22 mmHg
+│   │   ├── Sudut Terbuka
+│   │   ├── Optik Disk Normal
+│   │   ├── Lapang Pandang Normal
+│   │   ├── Prevalensi (6% TIO Tinggi, 0.5% POAG)
+│   │   └── Penatalaksanaan (Kasus Risiko Tinggi)
+│   ├── Low Tension Glaukoma (LTG)
+│   │   ├── TIO < 20 mmHg
+│   │   ├── Sudut Terbuka
+│   │   ├── Ekskavasi Nervus Optikus
+│   │   ├── Penyempitan Lapang Pandang
+│   │   ├── Patofisiologi (Insufisiensi Vaskular Nervus Optikus)
+│   │   └── Pengobatan (Sama dengan POAG, Turunkan TIO Lebih Rendah)
+│   └── Glaukoma Primer Sudut Tertutup (PACG)
+│       ├── Patofisiologi (Blok Pupil, Tanpa Blok Pupil/Blok Silier)
+│       ├── Mekanisme Blok Pupil (Faktor Predisposisi, Faktor Pencetus)
+│       ├── Gejala (Nyeri Mata Hebat, Halo, Penglihatan Kabur, Pusing, Mual, Muntah)
+│       ├── Tanda (TIO Tinggi, PCVI+CVI, Kornea Edema, Bilik Mata Depan Dangkal, Flare, Atropi Iris, Glaukomflecken, Midriasis)
+│       └── Penatalaksanaan
+│           ├── Medikamentosa (Gliserin, Asetazolamid, Timolol, Analgesik, Manitol, Pilokarpin)
+│           └── Definitif (Iridektomi/Laser Iridotomi, Trabekulektomi)
+└── NEUROOFTALMOLOGI
+    ├── Konsep Penglihatan (Perhatian, Pengenalan Visual, Ingatan, Pengaruh Korteks)
+    ├── Lintasan Visual
+    │   ├── Alur Optik (Kornea → Retina)
+    │   └── Jalur Neural (Sel Ganglioner → Korteks Oksipitalis)
+    ├── Lapisan Retina (Fotoreseptor, Neuron, Sel Ganglion, Saraf Optik)
+    ├── Pemeriksaan
+    │   ├── Visus
+    │   ├── Oftalmoskopis
+    │   ├── Lapang Pandang (Konfrontasi, Amsler, Perimeter)
+    │   ├── Persepsi Warna & Kecerahan
+    │   ├── Refleks Pupil
+    │   ├── Kelainan Penyerta
+    │   └── Penunjang (Foto Kepala, CT Scan, USG, MRI)
+    ├── Gejala Umum
+    │   ├── Penurunan Visus
+    │   ├── Kelainan Lapang Pandang
+    │   ├── Kelainan Penglihatan Warna
+    │   ├── Berkurangnya Kecerahan
+    │   └── Gejala Penyerta (Peningkatan TIK, Gangguan Endokrin, Gangguan Saraf Kranialis)
+    ├── Penyebab Gangguan
+    │   ├── Vaskuler
+    │   ├── Tumor
+    │   ├── Inflamasi
+    │   ├── Trauma
+    │   ├── Kongenital
+    │   └── Degenerasi
+    ├── Kelainan
+    │   ├── Neuritis Optik (Papilitis, Neuritis Retrobulber)
+    │   │   ├── Gejala (Penurunan Visus, Gangguan Warna, Penurunan Kecerahan, Nyeri, RAPD, DLP)
+    │   │   └── Terapi (Metil Prednisolon, Neurotropik, Antasida)
+    │   ├── Papiledema (Akibat Peningkatan TIK)
+    │   │   ├── Mekanisme (Obstruksi Aliran Vena)
+    │   │   ├── Etiologi (Tumor Otak, Abses, Perdarahan, Hidrosefalus, AVM, Hipertensi Maligna)
+    │   │   ├── Gejala (Visus Turun, Pelebaran Bintik Buta, Papil Bengkak, Pembuluh Darah Berkelok, Perdarahan, Gejala Peningkatan TIK)
+    │   │   └── Terapi (Pengobatan Penyebab, Acetazolamide, Vitamin K)
+    │   ├── Atrofi N. Optikus
+    │   │   ├── Etiologi (Oklusi Vaskuler, Degenerasi, Pasca Papiledema/Neuritis, Penekanan, Glaukoma, Gangguan Metabolisme, Toksin, Kongenital, Trauma)
+    │   │   ├── Gejala (Penurunan Visus, Gangguan Warna, RAPD, DLP)
+    │   │   └── Terapi (Identifikasi & Atasi Penyebab)
+    │   │   ├── Jenis
+    │   │   │   ├── Primer (Papil Pucat, Batas Tegas)
+    │   │   │   └── Sekunder (Papil Pucat, Batas Kabur, Didahului Papiledema)
+    │   ├── Ambliopia Toksik
+    │   │   ├── Klinis (Subakut, Progresif, Penurunan Visus Simetris, Defek Lapang Pandang Sentral, Persepsi Warna Buruk, Pucat Papil Temporal)
+    │   │   └── Etiologi (Tembakau, Etil Alkohol, Etambutol, Kloramfenikol, Klorokuin, Defisiensi Tiamin, Metil Alkohol, Isoniazid, Kinin)
+    │   ├── Kelainan Khiasma Optikum (Hemianopia Bitemporal, Hemianopia Binasal)
+    │   ├── Kelainan Traktus Optikus & Korpus Genikulatum Lateral
+    │   ├── Kelainan Radiasio Optika
+    │   ├── Adenoma Hipofisis (Penurunan Visus, Hemianopia Bitemporal, Disfungsi Kelenjar Pituitari, Paresis Otot Ekstraokuler)
+    │   └── Kraniofaringioma (Penurunan Visus, Hemianopia Bitemporal, Papiledema, Gangguan Pertumbuhan)
+    └── Kelainan Pupil
+        ├── RAPD (Relative Afferent Pupillary Defect) / Pupil Marcus Gunn
+        ├── Anisokoria (Perbedaan Ukuran Pupil)
+        ├── Mata Buta
+        ├── Lesi Eferen Parasimpatis
+        ├── Pupil Toksik
+        ├── Serangan Glaukoma
+        ├── Lesi Eferen Simpatis
+        ├── Pupil Adie
+        └── Pupil Argyll-Robertson
+```
 ## 1. GLAUKOMA
 
 ### Definisi

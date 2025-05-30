@@ -1,6 +1,116 @@
 by: 
 
 
+> [!info] Fokus disini
+
+```
+PENYAKIT TELINGA TENGAH DAN MASTOID
+├── ANATOMI TELINGA TENGAH
+│   ├── Cavum Tympani (Rongga Timpani)
+│   ├── Tuba Eustachius (Hubungkan Telinga Tengah ke Nasofaring)
+│   ├── Osikula (Tulang Pendengaran: Malleus, Incus, Stapes)
+│   └── Mastoid (Tulang Temporal dengan Sel Udara)
+├── OTITIS MEDIA (OM)
+│   ├── Definisi (Inflamasi Telinga Tengah)
+│   ├── Etiologi
+│   │   ├── Bakteri (Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis)
+│   │   └── Virus (RSV, Influenza, Rhinovirus)
+│   ├── Jalan Masuk Kuman
+│   │   ├── Tuba Eustachius (Paling Sering)
+│   │   ├── Liang Telinga (Perforasi Membran Timpani)
+│   │   └── Hematogen (Jarang)
+│   └── Klasifikasi
+│       ├── Berdasarkan Pus
+│       │   ├── Supuratif (Ada Pus)
+│       │   └── Non-Supuratif/Sekretoria/Seromukous (Tidak Ada Pus)
+│       └── Berdasarkan Waktu
+│           ├── Akut (OMA, < 1.5 Bulan)
+│           └── Supuratif Kronik (OMSK, > 2 Bulan)
+├── OTITIS MEDIA AKUT (OMA)
+│   ├── Epidemiologi (Bayi & Anak-Anak, Puncak 6-24 Bulan, Jarang Dewasa)
+│   ├── Stadium OMA
+│   │   ├── Oklusi (Tuba Tersumbat, Tekanan Negatif)
+│   │   ├── Hiperemis (Membran Timpani Merah & Menonjol)
+│   │   ├── Supurasi (Pus Terbentuk, Nyeri Hebat)
+│   │   ├── Perforasi (Membran Timpani Pecah, Pus Keluar)
+│   │   └── Resolusi (Penyembuhan, Perforasi Menutup)
+│   ├── Tanda Klinis pada Anak (Nyeri Telinga, Demam, Rewel, Gangguan Makan/Tidur, Otore)
+│   ├── Pengobatan
+│   │   ├── Konservatif (Antibiotik, Analgetik, Dekongestan Nasal)
+│   │   └── Operatif (Miringotomi)
+│   └── Komplikasi (Jarang Setelah Era Antibiotik: Mastoiditis, Labirintitis, Paralisis Nervus Fasialis)
+├── OTITIS MEDIA SUPURATIF KRONIK (OMSK)
+│   ├── Definisi (OMA dengan Perforasi > 1.5 Bulan)
+│   ├── Faktor Risiko OMA → OMSK (Terlambat/Tidak Adekuat, Infeksi Berat, Keadaan Umum Buruk, Higiene Buruk)
+│   ├── Jenis Perforasi (Sentral, Marginal/Posterosuperior, Atik)
+│   └── Klasifikasi
+│       ├── OMSK Tipe Benigna/Jinak (Tipe Mukosa)
+│       │   ├── Fase Aktif (Sekret Purulen, Perforasi Sentral, Mukosa Menebal)
+│       │   └── Fase Tenang (Tidak Ada Sekret, Perforasi Menetap, Mukosa Normal)
+│       └── OMSK Tipe Berbahaya/Maligna (Tipe Tulang)
+│           ├── Disertai Kolesteatoma
+│           ├── Destruksi Tulang
+│           └── Komplikasi Lebih Sering
+│   ├── Tanda Klinis OMSK Tipe Maligna (Abses/Fistula, Granulasi/Polip, Perforasi Atik/Marginal, Kolesteatoma, Pus Berbau Khas)
+│   └── Penatalaksanaan
+│       ├── OMSK Benigna Tenang (Observasi, Cegah Reinfeksi, Operasi Jika Sering Kambuh)
+│       ├── OMSK Benigna Aktif (Toilet Telinga, H₂O₂, Antibiotik, Kultur Sekret, Konsul THT → Operasi)
+│       └── OMSK Maligna (Toilet Telinga, H₂O₂, Antibiotik, Konsul THT di RS → OPERASI)
+├── JENIS OPERASI PADA OMSK
+│   ├── Mastoidektomi Simple (Bersihkan Sel Mastoid Terinfeksi)
+│   ├── Mastoidektomi Radikal (Pengangkatan Dinding Posterior Liang Telinga)
+│   ├── Mastoidektomi Radikal Modifikasi (Kombinasi dengan Preservasi Pendengaran)
+│   ├── Timpanoplasti (Perbaikan Membran Timpani & Osikula)
+│   └── Combined Approach Tympanoplasty (CAT, Pendekatan Ganda)
+├── KOMPLIKASI OMSK
+│   ├── Komplikasi Intratemporal/Ekstrakranial
+│   │   ├── Mastoiditis (Infeksi Sel Mastoid)
+│   │   ├── Labirintitis (Infeksi Telinga Dalam → Vertigo)
+│   │   ├── Paralisis Nervus VII (Kelumpuhan Wajah)
+│   │   └── Petrositis (Infeksi Puncak Petrosa)
+│   └── Komplikasi Intrakranial (Lebih Sering pada OMSK Maligna)
+│       ├── Trombosis Sinus Lateralis (Sumbatan Pembuluh Darah Otak)
+│       ├── Meningitis (Radang Selaput Otak)
+│       ├── Abses Otak (Kantong Nanah di Otak)
+│       ├── Abses Ekstradural (Nanah di Luar Selaput Otak)
+│       ├── Abses Subdural (Nanah di Bawah Selaput Otak)
+│       └── Otitik Hidrosefalus (Penumpukan Cairan Otak)
+│   ├── Tanda Klinis Komplikasi
+│   │   ├── Komplikasi Intratemporal (Vertigo, Mual, Muntah, Kelumpuhan Wajah, Gangguan Pendengaran, Panas Tinggi, Sakit Kepala)
+│   │   └── Komplikasi Intrakranial (Nyeri Kepala Hebat, Vertigo, Mual, Muntah, Kejang, Demam Tinggi, Penurunan Kesadaran)
+│   └── Tatalaksana OMSK + Komplikasi (Rawat Inap, Antibiotik Dosis Tinggi IV, Pemeriksaan Mikroresistensi, Ro Mastoid, CT Scan + Kontras, Konsul Bedah Saraf/Neurologi, Operasi Segera)
+├── OTITIS MEDIA SEROSA (OMS)
+│   ├── Definisi (Sekret di Telinga Tengah, Membran Timpani Utuh, Biasanya Steril)
+│   ├── Klasifikasi (Akut: Sekret Serous, Kronik: Sekret Serous/Seromukus/Kental)
+│   ├── Etiologi (Obstruksi Tuba, Virus, Alergi, Pengobatan OMA Tidak Adekuat, Idiopatik)
+│   ├── Keluhan (Pendengaran Berkurang, Telinga Rasa Penuh, Seperti Ada Air, Tinitus)
+│   ├── Tanda Klinis (Membran Timpani Utuh, Suram, Retraksi, Gelembung Cairan, Permukaan Cairan)
+│   └── Tatalaksana
+│       ├── Medikamentosa (Dekongestan Nasal, Inflasi Tuba)
+│       └── Operatif (Miringotomi + Pemasangan Tube)
+├── OTOSKLEROSIS
+│   ├── Definisi (Spongiosis di Kaki Stapes → Stapes Kaku → Gangguan Hantar Suara)
+│   ├── Karakteristik (Pendengaran Menurun Progresif, Tinitus, Vertigo, Sering Bilateral, Perempuan > Laki-Laki, Usia 11-45 Tahun)
+│   ├── Pemeriksaan Fisik (Normal pada Otoskopi, Schwartze Sign, Paracusis Willisi)
+│   └── Tatalaksana (Definitif: Stapedektomi/Stapedotomi, Sementara: Alat Bantu Dengar)
+├── TIMPANOSKLEROSIS
+│   ├── Definisi (Komplikasi OM/Trauma, Deposit Hyalin & Kalsium)
+│   ├── Gambaran (Plak Timpanosklerotik, Tuli Konduktif Jika Capai Osikula)
+│   └── Tatalaksana (Operatif: Ganti/Perbaiki Membran Timpani & Struktur Telinga Tengah)
+├── MIRINGITIS BULOSA
+│   ├── Definisi (Infeksi Akut Membran Timpani & Meatus Akustikus Eksterna)
+│   ├── Gejala (Otalgia Hebat, Sekret Serous/Hemoragik, Bula pada Membran Timpani)
+│   └── Terapi (Antibiotik Oral & Topikal, Insisi Drainase Bula, Antibiotik IV Jika Penyebaran Luas)
+└── MASTOIDITIS
+    ├── Definisi (Infeksi Tulang Mastoid, Komplikasi Otitis Media)
+    ├── Etiologi (Usia, Status Sosial Ekonomi, Virulensi Kuman, Imunokompromais, Kolesteatoma)
+    ├── Patofisiologi (Aditus ad Antrum Tersumbat, Eksudasi, Demineralisasi Septa)
+    ├── Gejala dan Tanda (Mastoid Bengkak, Nyeri, Otalgia, Demam, Otore, Gejala Nonspesifik pada Bayi)
+    ├── Diagnosis (Anamnesis, Pemeriksaan Fisik, Radiologi)
+    ├── Tatalaksana (Antibiotik, Prosedur Bedah)
+    └── Prognosis (Terapi Adekuat: Baik, Terapi Tidak Adekuat: Komplikasi)
+```
+
 ## A. ANATOMI TELINGA TENGAH
 
 ### Struktur Penting:

@@ -208,7 +208,7 @@ Tujuan: Menilai posisi bola mata
 3. Bersihkan cul-de-sac dengan tisu/cotton buds
 4. Lanjutkan seperti pemeriksaan Schirmer I
 
-### Pemeriksaan Floresin Test
+### Pemeriksaan Fluresin Test
 1. Teteskan pantokain 0,5% pada mata
 2. Tunggu 3 menit/sampai tidak perih
 3. Basahi kertas floresin strip dengan aquadest
