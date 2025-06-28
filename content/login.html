@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protected Quartz Site</title>
+    <style>
+        /* Login Overlay Styles */
+        #loginOverlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        }
+
+        .login-container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        .login-title {
+            color: #333;
+            margin-bottom: 30px;
+            font-size: 28px;
+            font-weight: 600;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        .form-label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+            font-weight: 500;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #e1e5e9;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+            box-sizing: border-box;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .login-btn {
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+        }
+
+        .login-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .error-message {
+            color: #e74c3c;
+            margin-top: 15px;
+            padding: 10px;
+            background: #ffeaea;
+            border-radius: 6px;
+            display: none;
+            font-size: 14px;
+        }
+
+        .success-message {
+            color: #27ae60;
+            margin-top: 15px;
+            padding: 10px;
+            background: #eafaf1;
+            border-radius: 6px;
+            display: none;
+            font-size: 14px;
+        }
+
+        /* Logout button */
+        #logoutBtn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #e74c3c;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            z-index: 1000;
+            font-family: inherit;
+            font-size: 14px;
+            display: none;
+        }
+
+        #logoutBtn:hover {
+            background: #c0392b;
+        }
+
+        /* Hide overlay when logged in */
+        .logged-in #loginOverlay {
+            display: none !important;
+        }
+
+        .logged-in #logoutBtn {
+            display: block !important;
+        }
+
+        /* Loading indicator */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Demo content jika tidak ada Quartz */
+        .demo-content {
+            padding: 60px 20px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        }
+
+        .demo-content h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .demo-content p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Login Overlay -->
+    <div id="loginOverlay">
+        <div class="login-container">
+            <h1 class="login-title">🔒 Private Notes</h1>
+            <form id="authForm">
+                <div class="form-group">
+                    <label for="username" class="form-label">Username</label>
+                    <input type="text" id="username" class="form-input" required autocomplete="username">
+                </div>
+                <div class="form-group">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" id="password" class="form-input" required autocomplete="current-password">
+                </div>
+                <button type="submit" class="login-btn" id="loginButton">
+                    Masuk
+                </button>
+                <div class="error-message" id="errorMessage"></div>
+                <div class="success-message" id="successMessage"></div>
+            </form>
+            
+            <!-- Tombol untuk testing -->
+            <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee;">
+                <small style="color: #888;">
+                    Demo: admin / password123<br>
+                    <button type="button" onclick="quickLogin()" style="margin-top: 5px; padding: 5px 10px; background: #f8f9fa; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; font-size: 12px;">
+                        Quick Login (Demo)
+                    </button>
+                </small>
+            </div>
+        </div>
+    </div>
+
+    <!-- Logout Button -->
+    <button id="logoutBtn" onclick="logout()">Logout</button>
+
+    <!-- Demo Content (ganti dengan konten Quartz Anda) -->
+    <div class="demo-content">
+        <h1>🎉 Selamat! Anda berhasil login</h1>
+        <p>Halaman ini sekarang terlindungi dan hanya bisa diakses setelah login.</p>
+        <p><strong>Cara mengintegrasikan dengan Quartz:</strong></p>
+        <ol>
+            <li>Simpan file ini di folder Quartz Anda sebagai <code>protected.html</code></li>
+            <li>Atau copy bagian CSS dan JavaScript ke dalam template Quartz Anda</li>
+            <li>Konten ini akan diganti dengan konten Quartz yang sebenarnya</li>
+        </ol>
+        
+        <h2>📝 Testing Notes</h2>
+        <p>Ini adalah area di mana konten Quartz Obsidian Anda akan muncul. Setelah login berhasil, pengguna dapat melihat semua catatan dan navigasi Quartz seperti biasa.</p>
+        
+        <h3>🔧 Status Sistem</h3>
+        <ul>
+            <li>✅ Login system aktif</li>
+            <li>✅ Session management berfungsi</li>
+            <li>✅ Logout button tersedia</li>
+            <li>✅ Responsive design</li>
+        </ul>
+    </div>
+
+    <script>
+        // ============================================
+        // KONFIGURASI LOGIN - GANTI SESUAI KEBUTUHAN
+        // ============================================
+        const LOGIN_CONFIG = {
+            // Username dan password yang valid
+            credentials: {
+                'admin': 'password123',
+                'user1': 'mypassword',  
+                'guest': '12345'
+            },
+            
+            // Durasi session (dalam milidetik)
+            sessionDuration: 24 * 60 * 60 * 1000, // 24 jam
+            
+            // Key untuk localStorage
+            storageKey: 'quartzAuth',
+            
+            // Debug mode
+            debug: true
+        };
+
+        // ============================================
+        // UTILITY FUNCTIONS
+        // ============================================
+        function log(message, ...args) {
+            if (LOGIN_CONFIG.debug) {
+                console.log(`[QuartzAuth] ${message}`, ...args);
+            }
+        }
+
+        function showElement(element, display = 'block') {
+            if (element) {
+                element.style.display = display;
+            }
+        }
+
+        function hideElement(element) {
+            if (element) {
+                element.style.display = 'none';
+            }
+        }
+
+        // ============================================
+        // AUTHENTICATION FUNCTIONS
+        // ============================================
+        function validateCredentials(username, password) {
+            const isValid = LOGIN_CONFIG.credentials[username?.trim()] === password;
+            log('Validating credentials:', { username: username?.trim(), valid: isValid });
+            return isValid;
+        }
+
+        function isLoggedIn() {
+            try {
+                const authData = localStorage.getItem(LOGIN_CONFIG.storageKey);
+                if (!authData) return false;
+
+                const { timestamp, user } = JSON.parse(authData);
+                const isValid = (Date.now() - timestamp) < LOGIN_CONFIG.sessionDuration;
+                
+                log('Checking login status:', { user, isValid, age: Date.now() - timestamp });
+                return isValid;
+            } catch (error) {
+                log('Error checking login status:', error);
+                return false;
+            }
+        }
+
+        function saveLoginSession(username) {
+            const authData = {
+                user: username,
+                timestamp: Date.now()
+            };
+            localStorage.setItem(LOGIN_CONFIG.storageKey, JSON.stringify(authData));
+            log('Session saved for user:', username);
+        }
+
+        function clearLoginSession() {
+            localStorage.removeItem(LOGIN_CONFIG.storageKey);
+            log('Session cleared');
+        }
+
+        // ============================================
+        // UI FUNCTIONS
+        // ============================================
+        function showLoginForm() {
+            document.body.classList.remove('logged-in');
+            log('Showing login form');
+        }
+
+        function hideLoginForm() {
+            document.body.classList.add('logged-in');
+            log('Hiding login form');
+        }
+
+        function showMessage(message, isError = false) {
+            const errorDiv = document.getElementById('errorMessage');
+            const successDiv = document.getElementById('successMessage');
+            
+            if (isError) {
+                if (errorDiv) {
+                    errorDiv.textContent = message;
+                    showElement(errorDiv);
+                }
+                if (successDiv) {
+                    hideElement(successDiv);
+                }
+            } else {
+                if (successDiv) {
+                    successDiv.textContent = message;
+                    showElement(successDiv);
+                }
+                if (errorDiv) {
+                    hideElement(errorDiv);
+                }
+            }
+
+            // Auto hide after 3 seconds
+            setTimeout(() => {
+                if (errorDiv) hideElement(errorDiv);
+                if (successDiv) hideElement(successDiv);
+            }, 3000);
+        }
+
+        function setLoadingState(isLoading) {
+            const button = document.getElementById('loginButton');
+            const loadingIndicator = document.querySelector('.loading');
+            
+            if (button) {
+                if (isLoading) {
+                    button.disabled = true;
+                    button.innerHTML = 'Memproses... <span class="loading"></span>';
+                } else {
+                    button.disabled = false;
+                    button.innerHTML = 'Masuk';
+                }
+            }
+        }
+
+        // ============================================
+        // EVENT HANDLERS
+        // ============================================
+        function handleLogin(event) {
+            event.preventDefault();
+            log('Login attempt started');
+
+            const username = document.getElementById('username')?.value?.trim();
+            const password = document.getElementById('password')?.value;
+
+            if (!username || !password) {
+                showMessage('Please fill in all fields', true);
+                return;
+            }
+
+            setLoadingState(true);
+
+            // Simulate network delay untuk UX yang lebih baik
+            setTimeout(() => {
+                if (validateCredentials(username, password)) {
+                    log('Login successful');
+                    saveLoginSession(username);
+                    showMessage('Login berhasil! Mengarahkan...');
+                    
+                    setTimeout(() => {
+                        hideLoginForm();
+                        setLoadingState(false);
+                    }, 1000);
+                } else {
+                    log('Login failed');
+                    showMessage('Username atau password salah!', true);
+                    setLoadingState(false);
+                }
+            }, 500);
+        }
+
+        function logout() {
+            log('Logout initiated');
+            clearLoginSession();
+            showLoginForm();
+            
+            // Reset form
+            const form = document.getElementById('authForm');
+            if (form) {
+                form.reset();
+            }
+            
+            showMessage('Anda telah logout');
+        }
+
+        // Quick login untuk demo
+        function quickLogin() {
+            document.getElementById('username').value = 'admin';
+            document.getElementById('password').value = 'password123';
+            const event = new Event('submit');
+            document.getElementById('authForm').dispatchEvent(event);
+        }
+
+        // ============================================
+        // INITIALIZATION
+        // ============================================
+        function initializeAuth() {
+            log('Initializing authentication system');
+
+            // Check if already logged in
+            if (isLoggedIn()) {
+                hideLoginForm();
+            } else {
+                showLoginForm();
+            }
+
+            // Setup form handler
+            const form = document.getElementById('authForm');
+            if (form) {
+                form.addEventListener('submit', handleLogin);
+                log('Form event listener attached');
+            } else {
+                log('Auth form not found!', 'error');
+            }
+
+            // Focus on username field
+            const usernameField = document.getElementById('username');
+            if (usernameField && !isLoggedIn()) {
+                setTimeout(() => usernameField.focus(), 100);
+            }
+
+            log('Authentication system ready');
+        }
+
+        // ============================================
+        // START APPLICATION
+        // ============================================
+        // Initialize when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initializeAuth);
+        } else {
+            initializeAuth();
+        }
+
+        // Handle page visibility change
+        document.addEventListener('visibilitychange', function() {
+            if (!document.hidden && !isLoggedIn()) {
+                showLoginForm();
+            }
+        });
+
+        log('Auth script loaded successfully');
+    </script>
+</body>
+</html>

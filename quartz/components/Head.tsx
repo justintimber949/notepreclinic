@@ -38,6 +38,7 @@ export default (() => {
 
     return (
       <head>
+        <script src="/static/quartz-login.js" defer></script>
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
